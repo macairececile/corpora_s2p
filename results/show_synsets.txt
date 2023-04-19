@@ -1,0 +1,4 @@
+from nltk.corpus import wordnet as wn
+def show(word, p):
+	for i in wn.synsets(word, lang='fra', pos=p):
+		print(i), print(i.definition()

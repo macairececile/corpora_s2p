@@ -1,0 +1,1101 @@
+<corpus>
+   <document id="doc1">
+      <paragraph>
+         <sentence id="doc1.s0">
+            <word surface_form="bonjour" lemma="bonjour" pos="PROPN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s0.t1"/>
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="vas" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s0.t2"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s1">
+            <word surface_form="qu'" lemma="que" pos="PRON"/>
+            <word surface_form="as" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s1.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="fait" lemma="faire" pos="VERB" wn30_key="set_up%2:30:02::;fix%2:30:03::;prepare%2:30:00::;ready%2:30:00::;gear_up%2:30:00::;set%2:30:09::" id="doc1.s1.t2"/>
+            <word surface_form="aujourd'hui" lemma="aujourd'hui" pos="ADV" wn30_key="today%4:02:00::" id="doc1.s1.t3"/>
+         </sentence>
+         <sentence id="doc1.s2">
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="sven" lemma="sven" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s3">
+            <word surface_form="arrête" lemma="arrêter" pos="VERB" wn30_key="stop%2:35:00::;intercept%2:35:00::;stop%2:38:01::" id="doc1.s3.t1"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="fois" lemma="fois" pos="NOUN" wn30_key="over_again%4:02:00::;once_more%4:02:00::;again%4:02:00::;once_again%4:02:00::" id="doc1.s3.t2"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="m'" lemma="me" pos="PRON"/>
+            <word surface_form="envoyer" lemma="envoyer" pos="VERB" wn30_key="send_out%2:35:00::;get_off%2:35:00::;send%2:35:00::;mail%2:35:00::" id="doc1.s3.t3"/>
+            <word surface_form="stp" lemma="stp" pos="ADV" wn30_key="please%4:02:00::;implore%2:32:00::;beg%2:32:01::;do%2:29:09::;beg%2:32:00::;act%2:29:00::;pray%2:32:01::;behave%2:29:00::;solicit%2:32:00::;tap%2:32:00::" id="doc1.s3.t4"/>
+         </sentence>
+         <sentence id="doc1.s4">
+            <word surface_form="viens" lemma="venir" pos="VERB" wn30_key="come_up%2:38:02::;come%2:38:00::;come%2:38:04::;get%2:38:00::;arrive%2:38:00::" id="doc1.s4.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="ma" lemma="mon" pos="DET"/>
+            <word surface_form="fête" lemma="fête" pos="NOUN" wn30_key="festivity%1:04:00::;celebration%1:04:00::;party%1:11:00::" id="doc1.s4.t2"/>
+            <word surface_form="du" lemma="de" pos="ADP"/>
+            <word surface_form="22" lemma="22" pos="NUM" wn30_key="twenty-two%5:00:00:cardinal:00;number%1:10:01::;numeral%1:10:00::;twenty-two%1:06:00::;number%1:23:00::;.22%1:06:00::;22%5:00:00:cardinal:00;xxii%5:00:00:cardinal:00" id="doc1.s4.t3"/>
+            <word surface_form="juin" lemma="juin" pos="NOUN" wn30_key="june%1:28:00::" id="doc1.s4.t4"/>
+            <word surface_form="ou" lemma="ou" pos="CCONJ"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s4.t5"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="dois" lemma="devoir" pos="VERB" wn30_key="compel%2:41:00::;oblige%2:41:00::;obligate%2:41:00::" id="doc1.s4.t6"/>
+            <word surface_form="savoir" lemma="savoir" pos="VERB" wn30_key="know%2:31:01::;cognise%2:31:00::;cognize%2:31:00::" id="doc1.s4.t7"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="peux" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="dire" lemma="dire" pos="VERB" wn30_key="tell%2:32:01::;narrate%2:32:00::;recite%2:32:01::;recount%2:32:00::" id="doc1.s4.t8"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="ma" lemma="mon" pos="DET"/>
+            <word surface_form="maman" lemma="maman" pos="NOUN" wn30_key="mother%1:18:00::;mummy%1:18:00::;mum%1:18:00::;momma%1:18:00::;mama%1:18:00::;mommy%1:18:00::;mammy%1:18:00::;mom%1:18:00::;ma%1:18:00::;mamma%1:18:00::;female_parent%1:18:00::" id="doc1.s4.t9"/>
+         </sentence>
+         <sentence id="doc1.s5">
+            <word surface_form="rien" lemma="rien" pos="PRON" wn30_key="none%5:00:00:no:00;neither%5:00:00:incomplete:00" id="doc1.s5.t1"/>
+            <word surface_form="pour" lemma="pour" pos="ADP"/>
+            <word surface_form="nadir" lemma="nadir" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s6">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="schirley" lemma="schirley" pos="PROPN"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="as" lemma="avoir" pos="VERB" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s6.t1"/>
+            <word surface_form="un" lemma="un" pos="DET" wn30_key="1%5:00:00:cardinal:00;one%1:23:00::;i%5:00:00:cardinal:00;unity%1:23:00::;ane%5:00:00:cardinal:00;single%1:23:00::;number%1:10:01::;odd%3:00:00::;uneven%3:00:04::;one%5:00:00:cardinal:00;numeral%1:10:00::;1%1:23:00::;number%1:23:00::;ace%1:23:00::;i%1:23:00::" id="doc1.s6.t2"/>
+            <word surface_form="beau" lemma="beau" pos="ADJ" wn30_key="cunning%5:00:00:attractive:01;cute%5:00:00:attractive:01;beautiful%3:00:00::;pretty%5:00:00:beautiful:00" id="doc1.s6.t3"/>
+            <word surface_form="chien" lemma="chien" pos="NOUN" wn30_key="dog%1:05:00::;canis_familiaris%1:05:00::;domestic_dog%1:05:00::" id="doc1.s6.t4"/>
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="s'" lemma="se" pos="PRON"/>
+            <word surface_form="appelle" lemma="appeler" pos="VERB"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="chien" lemma="chien" pos="NOUN" wn30_key="dog%1:05:00::;canis_familiaris%1:05:00::;domestic_dog%1:05:00::" id="doc1.s6.t5"/>
+            <word surface_form="ce" lemma="ce" pos="PRON"/>
+            <word surface_form="n'" lemma="ne" pos="ADV"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s6.t6"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s6.t7"/>
+            <word surface_form="lassie" lemma="lassie" pos="PROPN"/>
+            <word surface_form="annick" lemma="annick" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s7">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="glynis" lemma="glynis" pos="PROPN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="papa" lemma="papa" pos="NOUN" wn30_key="dada%1:18:00::;dad%1:18:00::;begetter%1:18:00::;pa%1:18:00::;papa%1:18:00::;daddy%1:18:00::;pappa%1:18:00::;pop%1:18:00::;father%1:18:00::;male_parent%1:18:00::" id="doc1.s7.t1"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="peux" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="aller" lemma="aller" pos="VERB" wn30_key="move%2:38:03::;locomote%2:38:00::;travel%2:38:00::;go%2:38:00::" id="doc1.s7.t2"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="ta" lemma="ton" pos="DET"/>
+            <word surface_form="fête" lemma="fête" pos="NOUN" wn30_key="festivity%1:04:00::;celebration%1:04:00::;party%1:11:00::" id="doc1.s7.t3"/>
+            <word surface_form="d'" lemma="de" pos="ADP"/>
+            <word surface_form="adieu" lemma="adieu" pos="NOUN"/>
+            <word surface_form="glynis" lemma="glynis" pos="PROPN"/>
+            <word surface_form="est" lemma="être" pos="AUX"/>
+            <word surface_form="ce" lemma="ce" pos="PRON"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="ce" lemma="ce" pos="PRON"/>
+            <word surface_form="n'" lemma="ne" pos="ADV"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s7.t4"/>
+            <word surface_form="pas" lemma="pas" pos="ADV"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="bad%3:00:00::" id="doc1.s7.t5"/>
+            <word surface_form="ou" lemma="ou" pos="CCONJ"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s7.t6"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s7.t7"/>
+            <word surface_form="glynis" lemma="glynis" pos="PROPN"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="ta" lemma="ton" pos="DET"/>
+            <word surface_form="meilleure" lemma="meilleur" pos="ADJ" wn30_key="admire%2:39:00::;better%4:02:01::;admire%2:37:00::;look_up_to%2:37:00::;better%3:00:00::;best%4:02:03::" id="doc1.s7.t8"/>
+            <word surface_form="amie" lemma="amie" pos="NOUN" wn30_key="friend%1:18:02::;acquaintance%1:18:00::;friend%1:18:00::" id="doc1.s7.t9"/>
+            <word surface_form="kim" lemma="kim" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s8">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="natalie" lemma="natalie" pos="PROPN"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s8.t1"/>
+            <word surface_form="donné" lemma="donner" pos="VERB" wn30_key="reach%2:40:00::;turn_over%2:40:00::;give%2:40:00::;offer%2:40:00::;proffer%2:40:00::;pass%2:40:00::;hand%2:40:00::;pass_on%2:40:01::;give%2:40:06::" id="doc1.s8.t2"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="steven" lemma="steven" pos="PROPN"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="bouteille" lemma="bouteille" pos="NOUN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="coca" lemma="coca" pos="PROPN" wn30_key="cola%1:13:00::;coke%1:13:00::;dope%1:13:00::;coca_cola%1:13:00::" id="doc1.s8.t3"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="il" lemma="il" pos="PRON"/>
+            <word surface_form="commence" lemma="commencer" pos="VERB" wn30_key="start%1:15:00::;scratch_line%1:15:00::;get%2:30:12::;start%1:11:00::;set_out%2:30:00::;get_down%2:30:00::;begin%2:30:00::;start%2:42:00::;scratch%1:15:00::;set_about%2:30:00::;starting_line%1:15:00::;commence%2:30:00::;begin%2:42:00::;start%2:30:00::;start_out%2:30:00::" id="doc1.s8.t4"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="se" lemma="se" pos="PRON"/>
+            <word surface_form="disputer" lemma="disputer" pos="VERB" wn30_key="quarrel%2:32:00::;dispute%2:32:01::;conflict%1:10:00::;difference%1:10:00::;argufy%2:32:00::;scrap%2:32:00::;difference_of_opinion%1:10:00::;dispute%1:10:00::;altercate%2:32:00::" id="doc1.s8.t5"/>
+            <word surface_form="hier" lemma="hier" pos="ADV" wn30_key="yesterday%1:28:00::;yesterday%1:28:01::" id="doc1.s8.t6"/>
+            <word surface_form="steven" lemma="steven" pos="PROPN"/>
+            <word surface_form="dit" lemma="dire" pos="VERB" wn30_key="tell%2:32:01::;narrate%2:32:00::;recite%2:32:01::;recount%2:32:00::" id="doc1.s8.t7"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="fais" lemma="faire" pos="VERB" wn30_key="work%2:41:02::" id="doc1.s8.t8"/>
+            <word surface_form="rien" lemma="rien" pos="PRON" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s8.t9"/>
+            <word surface_form="au" lemma="au" pos="ADP"/>
+            <word surface_form="chenil" lemma="chenil" pos="PROPN" wn30_key="shop%1:06:00::;store%1:06:00::" id="doc1.s8.t10"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="peux" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s8.t11"/>
+            <word surface_form="annick" lemma="annick" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s9">
+            <word surface_form="bonjour" lemma="bonjour" pos="NOUN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s9.t1"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s9.t2"/>
+            <word surface_form="anja" lemma="anja" pos="PROPN"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="enverrai" lemma="envoyer" pos="VERB"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="lettre" lemma="lettre" pos="NOUN"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="elle" lemma="lui" pos="PRON"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="vais" lemma="aller" pos="VERB" wn30_key="like%2:37:05::" id="doc1.s9.t3"/>
+            <word surface_form="écrire" lemma="écrire" pos="VERB" wn30_key="writing%1:10:01::;write%2:36:01::;write%2:32:00::" id="doc1.s9.t4"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="espère" lemma="espérer" pos="VERB" wn30_key="like%2:37:01::;love%2:37:02::;love%2:37:00::;like%2:37:05::;enjoy%2:37:01::;like%2:37:04::;care%2:37:00::;wish%2:37:02::" id="doc1.s9.t5"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="gjeva" lemma="gjeva" pos="PROPN"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s9.t6"/>
+            <word surface_form="guérie" lemma="guérir" pos="VERB" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s9.t7"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="qu'" lemma="que" pos="SCONJ"/>
+            <word surface_form="elle" lemma="lui" pos="PRON"/>
+            <word surface_form="peut" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s9.t8"/>
+            <word surface_form="marcher" lemma="marcher" pos="VERB" wn30_key="move%2:38:03::;locomote%2:38:00::;travel%2:38:00::;go%2:38:00::" id="doc1.s9.t9"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="soufiane" lemma="soufiane" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s10">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="mustafa" lemma="mustafa" pos="PROPN"/>
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="va" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s10.t1"/>
+            <word surface_form="ton" lemma="ton" pos="DET"/>
+            <word surface_form="frère" lemma="frère" pos="NOUN" wn30_key="blood_brother%1:18:00::;brother%1:18:00::" id="doc1.s10.t2"/>
+         </sentence>
+         <sentence id="doc1.s11">
+            <word surface_form="ordinateur" lemma="ordinateur" pos="NOUN" wn30_key="microcomputer%1:06:00::;computer%1:06:00::;personal_computer%1:06:00::;information_processing_system%1:06:00::;pc%1:06:00::;computing_device%1:06:00::;data_processor%1:06:00::;computing_machine%1:06:00::;electronic_computer%1:06:00::" id="doc1.s11.t1"/>
+            <word surface_form="téléphone" lemma="téléphone" pos="NOUN" wn30_key="cellular_telephone%1:06:00::;cellular_phone%1:06:00::;cellphone%1:06:00::;mobile_phone%1:06:00::;cell%1:06:04::" id="doc1.s11.t2"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="t'" lemma="te" pos="PRON" wn30_key="hear%2:39:00::;take_heed%2:39:00::;hear%2:39:05::;listen%2:39:01::" id="doc1.s11.t3"/>
+            <word surface_form="entends" lemma="entendre" pos="VERB"/>
+            <word surface_form="mais" lemma="mais" pos="CCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="m'" lemma="me" pos="PRON" wn30_key="hear%2:39:00::;take_heed%2:39:00::;hear%2:39:05::;listen%2:39:01::" id="doc1.s11.t4"/>
+            <word surface_form="entends" lemma="entendre" pos="VERB" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s11.t5"/>
+            <word surface_form="pas" lemma="pas" pos="ADV"/>
+         </sentence>
+         <sentence id="doc1.s12">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="peter" lemma="peter" pos="PROPN"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="as" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s12.t1"/>
+            <word surface_form="envoyé" lemma="envoyer" pos="VERB"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="lettre" lemma="lettre" pos="NOUN"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="rien" lemma="rien" pos="PRON" wn30_key="none%5:00:00:no:00;neither%5:00:00:incomplete:00" id="doc1.s12.t2"/>
+         </sentence>
+         <sentence id="doc1.s13">
+            <word surface_form="madame" lemma="monsieur" pos="NOUN" wn30_key="adult_female%1:18:00::;mrs.%1:10:00::;silhouette%1:06:00::;lady%1:18:02::;mrs%1:10:00::;woman%1:18:00::" id="doc1.s13.t1"/>
+            <word surface_form="20" lemma="20" pos="NUM" wn30_key="twenty%5:00:00:cardinal:00;20%5:00:00:cardinal:00;twenty%1:23:00::;xx%1:23:00::;20%1:23:00::;xx%5:00:00:cardinal:00" id="doc1.s13.t2"/>
+         </sentence>
+         <sentence id="doc1.s14">
+            <word surface_form="10" lemma="10" pos="NUM" wn30_key="o'clock%4:02:00::" id="doc1.s14.t1"/>
+            <word surface_form="heures" lemma="heure" pos="NOUN" wn30_key="o'clock%4:02:00::" id="doc1.s14.t2"/>
+         </sentence>
+         <sentence id="doc1.s15">
+            <word surface_form="bonjour" lemma="bonjour" pos="NOUN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s15.t1"/>
+            <word surface_form="hannes" lemma="hannes" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s16">
+            <word surface_form="tout" lemma="tout" pos="PRON" wn30_key="completely%4:02:04::;all%5:00:00:complete:00;totally%4:02:00::;right%4:02:07::;entirely%4:02:00::;all%4:02:00::;altogether%4:02:04::;wholly%4:02:00::;whole%4:02:00::" id="doc1.s16.t1"/>
+            <word surface_form="va" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s16.t2"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s16.t3"/>
+            <word surface_form="pour" lemma="pour" pos="ADP"/>
+            <word surface_form="toi" lemma="toi" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s17">
+            <word surface_form="samedi" lemma="samedi" pos="NOUN" wn30_key="sat%1:28:00::;sunday%1:28:00::;sabbatum%1:28:00::;lord's_day%1:28:00::;dominicus%1:28:00::;sun%1:28:00::;saturday%1:28:00::" id="doc1.s17.t1"/>
+            <word surface_form="moi" lemma="moi" pos="PRON"/>
+            <word surface_form="se" lemma="se" pos="PRON"/>
+            <word surface_form="lever" lemma="lever" pos="VERB" wn30_key="arise%2:29:00::;wake_up%2:29:00::;awaken%2:29:01::;wake%2:29:01::;uprise%2:29:00::;come_alive%2:29:00::;turn_out%2:29:00::;waken%2:29:00::;get_up%2:29:00::;arouse%2:29:05::;rise%2:29:08::;awake%2:29:00::" id="doc1.s17.t2"/>
+            <word surface_form="toilette" lemma="toilette" pos="NOUN" wn30_key="crapper%1:06:00::;commode%1:06:00::;stool%1:06:01::;potty%1:06:01::;pot%1:06:01::;throne%1:06:01::;can%1:06:03::;toilet%1:06:01::" id="doc1.s17.t3"/>
+            <word surface_form="bain" lemma="bain" pos="NOUN" wn30_key="tub%1:06:01::;bathing_tub%1:06:00::;bathtub%1:06:00::" id="doc1.s17.t4"/>
+            <word surface_form="se" lemma="se" pos="PRON" wn30_key="brush%2:35:02::" id="doc1.s17.t5"/>
+            <word surface_form="brosser" lemma="brosser" pos="VERB" wn30_key="brush%2:35:02::" id="doc1.s17.t6"/>
+            <word surface_form="les" lemma="le" pos="DET" wn30_key="brush%2:35:02::" id="doc1.s17.t7"/>
+            <word surface_form="dents" lemma="dent" pos="NOUN" wn30_key="brush%2:35:02::" id="doc1.s17.t8"/>
+            <word surface_form="sandwich" lemma="sandwich" pos="NOUN" wn30_key="sandwich%1:13:00::" id="doc1.s17.t9"/>
+            <word surface_form="jus" lemma="jus" pos="NOUN" wn30_key="orange_juice%1:13:00::" id="doc1.s17.t10"/>
+            <word surface_form="d'" lemma="de" pos="ADP" wn30_key="orange_juice%1:13:00::" id="doc1.s17.t11"/>
+            <word surface_form="orange" lemma="orange" pos="NOUN" wn30_key="orange_juice%1:13:00::" id="doc1.s17.t12"/>
+            <word surface_form="morceau" lemma="morceau" pos="NOUN" wn30_key="come_off%2:35:01::;fragmentize%2:30:00::;chip%2:35:01::;fragment%2:30:00::;fragmentise%2:30:00::;break_away%2:35:00::;dash%2:30:00::;smash%2:30:00::;break_off%2:35:01::;break_up%2:30:00::;chip_off%2:35:00::" id="doc1.s17.t13"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="sucre" lemma="sucre" pos="NOUN" wn30_key="sugar%1:13:00::;saccharide%1:27:00::;sugar%1:27:00::;refined_sugar%1:13:00::;carbohydrate%1:27:00::" id="doc1.s17.t14"/>
+            <word surface_form="sucre" lemma="sucre" pos="NOUN" wn30_key="sugar%1:13:00::;saccharide%1:27:00::;sugar%1:27:00::;refined_sugar%1:13:00::;carbohydrate%1:27:00::" id="doc1.s17.t15"/>
+            <word surface_form="lait" lemma="lait" pos="NOUN" wn30_key="pasteurized_milk%1:13:00::;whole_milk%1:13:00::;milk%1:13:01::;cows'_milk%1:13:00::" id="doc1.s17.t16"/>
+         </sentence>
+         <sentence id="doc1.s18">
+            <word surface_form="amusant" lemma="amusant" pos="ADJ" wn30_key="risible%5:00:00:humorous:00;amusing%5:00:00:humorous:00;mirthful%5:00:00:humorous:00;laughable%5:00:00:humorous:00;comic%5:00:00:humorous:00;comical%5:00:00:humorous:00;funny%5:00:00:humorous:00" id="doc1.s18.t1"/>
+            <word surface_form="quand" lemma="quand" pos="SCONJ"/>
+            <word surface_form="reviens" lemma="revenir" pos="VERB" wn30_key="turn%2:38:00::;return%2:38:12::;turn%1:04:02::;bring_back%2:38:00::;return%2:38:00::;take_back%2:38:03::" id="doc1.s18.t2"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s19">
+            <word surface_form="es" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s19.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="amoureux" lemma="amoureux" pos="ADJ" wn30_key="soft_on%5:00:00:loving:00;twosome%1:14:00::;taken_with%5:00:00:loving:00;smitten%5:00:00:loving:00;potty%5:00:00:loving:00;lover%1:18:00::;in_love%5:00:00:loving:00;duet%1:14:00::;infatuated%5:00:00:loving:00;duo%1:14:00::;couple%1:14:00::;enamored%5:00:00:loving:00" id="doc1.s19.t2"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="trisha" lemma="trisha" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s20">
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="great%5:00:00:good:01;swell%5:00:00:good:01;peachy%5:00:00:good:01;fantastic%5:00:00:extraordinary:00;fine%5:00:00:satisfactory:00;hunky-dory%5:00:00:satisfactory:00;rattling%5:00:00:extraordinary:00;marvelous%5:00:00:extraordinary:00;bully%5:00:00:good:01;slap-up%5:00:00:good:01;neat%5:00:00:good:01;smashing%5:00:00:good:01;o.k.%5:00:00:satisfactory:00;bang-up%5:00:00:good:01;wonderful%5:00:00:extraordinary:00;wondrous%5:00:00:extraordinary:00;okay%5:00:00:satisfactory:00;cool%5:00:00:satisfactory:00;not_bad%5:00:00:good:01;dandy%5:00:00:good:01;tremendous%5:00:00:extraordinary:00;keen%5:00:00:good:01;all_right%5:00:00:satisfactory:00;terrific%5:00:00:extraordinary:00;groovy%5:00:00:good:01;howling%5:00:00:extraordinary:00;ok%5:00:00:satisfactory:00;grand%5:00:00:extraordinary:00;cracking%5:00:00:good:01;successful%3:00:00::;marvellous%5:00:00:extraordinary:00;nifty%5:00:00:good:01;corking%5:00:00:good:01;old%5:00:00:good:01" id="doc1.s20.t1"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="great%5:00:00:good:01;swell%5:00:00:good:01;peachy%5:00:00:good:01;fantastic%5:00:00:extraordinary:00;fine%5:00:00:satisfactory:00;hunky-dory%5:00:00:satisfactory:00;rattling%5:00:00:extraordinary:00;marvelous%5:00:00:extraordinary:00;bully%5:00:00:good:01;slap-up%5:00:00:good:01;neat%5:00:00:good:01;smashing%5:00:00:good:01;o.k.%5:00:00:satisfactory:00;bang-up%5:00:00:good:01;wonderful%5:00:00:extraordinary:00;wondrous%5:00:00:extraordinary:00;okay%5:00:00:satisfactory:00;cool%5:00:00:satisfactory:00;not_bad%5:00:00:good:01;dandy%5:00:00:good:01;tremendous%5:00:00:extraordinary:00;keen%5:00:00:good:01;all_right%5:00:00:satisfactory:00;terrific%5:00:00:extraordinary:00;groovy%5:00:00:good:01;howling%5:00:00:extraordinary:00;ok%5:00:00:satisfactory:00;grand%5:00:00:extraordinary:00;cracking%5:00:00:good:01;successful%3:00:00::;marvellous%5:00:00:extraordinary:00;nifty%5:00:00:good:01;corking%5:00:00:good:01;old%5:00:00:good:01" id="doc1.s20.t2"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="great%5:00:00:good:01;swell%5:00:00:good:01;peachy%5:00:00:good:01;fantastic%5:00:00:extraordinary:00;fine%5:00:00:satisfactory:00;hunky-dory%5:00:00:satisfactory:00;rattling%5:00:00:extraordinary:00;marvelous%5:00:00:extraordinary:00;bully%5:00:00:good:01;slap-up%5:00:00:good:01;neat%5:00:00:good:01;smashing%5:00:00:good:01;o.k.%5:00:00:satisfactory:00;bang-up%5:00:00:good:01;wonderful%5:00:00:extraordinary:00;wondrous%5:00:00:extraordinary:00;okay%5:00:00:satisfactory:00;cool%5:00:00:satisfactory:00;not_bad%5:00:00:good:01;dandy%5:00:00:good:01;tremendous%5:00:00:extraordinary:00;keen%5:00:00:good:01;all_right%5:00:00:satisfactory:00;terrific%5:00:00:extraordinary:00;groovy%5:00:00:good:01;howling%5:00:00:extraordinary:00;ok%5:00:00:satisfactory:00;grand%5:00:00:extraordinary:00;cracking%5:00:00:good:01;successful%3:00:00::;marvellous%5:00:00:extraordinary:00;nifty%5:00:00:good:01;corking%5:00:00:good:01;old%5:00:00:good:01" id="doc1.s20.t3"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="great%5:00:00:good:01;swell%5:00:00:good:01;peachy%5:00:00:good:01;fantastic%5:00:00:extraordinary:00;fine%5:00:00:satisfactory:00;hunky-dory%5:00:00:satisfactory:00;rattling%5:00:00:extraordinary:00;marvelous%5:00:00:extraordinary:00;bully%5:00:00:good:01;slap-up%5:00:00:good:01;neat%5:00:00:good:01;smashing%5:00:00:good:01;o.k.%5:00:00:satisfactory:00;bang-up%5:00:00:good:01;wonderful%5:00:00:extraordinary:00;wondrous%5:00:00:extraordinary:00;okay%5:00:00:satisfactory:00;cool%5:00:00:satisfactory:00;not_bad%5:00:00:good:01;dandy%5:00:00:good:01;tremendous%5:00:00:extraordinary:00;keen%5:00:00:good:01;all_right%5:00:00:satisfactory:00;terrific%5:00:00:extraordinary:00;groovy%5:00:00:good:01;howling%5:00:00:extraordinary:00;ok%5:00:00:satisfactory:00;grand%5:00:00:extraordinary:00;cracking%5:00:00:good:01;successful%3:00:00::;marvellous%5:00:00:extraordinary:00;nifty%5:00:00:good:01;corking%5:00:00:good:01;old%5:00:00:good:01" id="doc1.s20.t4"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s20.t5"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s20.t6"/>
+            <word surface_form="mangé" lemma="manger" pos="VERB" wn30_key="eat%2:34:00::;ingest%2:34:00::;take_in%2:34:00::;have%2:34:00::;consume%2:34:00::;take%2:34:00::" id="doc1.s20.t7"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="était" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s20.t8"/>
+            <word surface_form="la" lemma="le" pos="DET"/>
+            <word surface_form="fête" lemma="fête" pos="NOUN" wn30_key="festivity%1:04:00::;celebration%1:04:00::;party%1:11:00::" id="doc1.s20.t9"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="communion" lemma="communion" pos="NOUN" wn30_key="communicate%2:32:07::;manduction%1:04:01::;holy_communion%1:04:00::;communion%1:04:01::;commune%2:32:01::;sacramental_manduction%1:04:00::" id="doc1.s20.t10"/>
+         </sentence>
+         <sentence id="doc1.s21">
+            <word surface_form="joris" lemma="joris" pos="PROPN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="qui" lemma="qui" pos="PRON" wn30_key="unknown%3:00:00::" id="doc1.s21.t1"/>
+            <word surface_form="es" lemma="être" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s21.t2"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="amoureux" lemma="amoureux" pos="ADJ" wn30_key="soft_on%5:00:00:loving:00;twosome%1:14:00::;taken_with%5:00:00:loving:00;smitten%5:00:00:loving:00;potty%5:00:00:loving:00;lover%1:18:00::;in_love%5:00:00:loving:00;duet%1:14:00::;infatuated%5:00:00:loving:00;duo%1:14:00::;couple%1:14:00::;enamored%5:00:00:loving:00" id="doc1.s21.t3"/>
+            <word surface_form="bisous" lemma="bisou" pos="NOUN"/>
+            <word surface_form="julie" lemma="julie" pos="PROPN"/>
+            <word surface_form="timide" lemma="timide" pos="ADJ" wn30_key="diffident%3:00:00::;shy%3:00:00::;unsure%3:00:07::;timid%3:00:09::" id="doc1.s21.t4"/>
+            <word surface_form="amour" lemma="amour" pos="NOUN" wn30_key="erotic_love%1:12:00::;favourite%1:18:00::;ducky%1:18:00::;favorite%1:18:00::;sexual_love%1:12:00::;love%1:12:01::;darling%1:18:00::;deary%1:18:00::;pet%1:18:00::;dearie%1:18:00::" id="doc1.s21.t5"/>
+            <word surface_form="amoureux" lemma="amoureux" pos="ADJ" wn30_key="soft_on%5:00:00:loving:00;twosome%1:14:00::;taken_with%5:00:00:loving:00;smitten%5:00:00:loving:00;potty%5:00:00:loving:00;lover%1:18:00::;in_love%5:00:00:loving:00;duet%1:14:00::;infatuated%5:00:00:loving:00;duo%1:14:00::;couple%1:14:00::;enamored%5:00:00:loving:00" id="doc1.s21.t6"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="ami" lemma="ami" pos="NOUN" wn30_key="friend%1:18:02::;acquaintance%1:18:00::;friend%1:18:00::" id="doc1.s21.t7"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s21.t8"/>
+            <word surface_form="joris" lemma="joris" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s22">
+            <word surface_form="savez" lemma="savoir" pos="VERB" wn30_key="excogitate%2:36:00::;discover%2:36:00::;devise%2:36:00::;find%2:31:09::;contrive%2:36:00::;forge%2:36:08::;find%2:36:00::;discover%2:31:00::;see%2:31:01::;invent%2:36:00::;realise%2:31:00::;understand%2:31:01::;realize%2:31:00::;formulate%2:36:00::" id="doc1.s22.t1"/>
+            <word surface_form="vous" lemma="vous" pos="PRON"/>
+            <word surface_form="ce" lemma="ce" pos="PRON"/>
+            <word surface_form="que" lemma="que" pos="PRON"/>
+            <word surface_form="nous" lemma="nous" pos="PRON"/>
+            <word surface_form="allons" lemma="aller" pos="VERB" wn30_key="move%2:38:03::;locomote%2:38:00::;travel%2:38:00::;go%2:38:00::" id="doc1.s22.t2"/>
+            <word surface_form="faire" lemma="faire" pos="VERB" wn30_key="set_up%2:30:02::;fix%2:30:03::;prepare%2:30:00::;ready%2:30:00::;gear_up%2:30:00::;set%2:30:09::" id="doc1.s22.t3"/>
+            <word surface_form="cet" lemma="ce" pos="DET"/>
+            <word surface_form="après-midi" lemma="après-midi" pos="NOUN" wn30_key="afternoon%1:28:00::" id="doc1.s22.t4"/>
+         </sentence>
+         <sentence id="doc1.s23">
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="n'" lemma="ne" pos="ADV"/>
+            <word surface_form="es" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s23.t1"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s23.t2"/>
+            <word surface_form="musulman" lemma="musulman" pos="ADJ" wn30_key="human%1:05:00::;man%1:18:00::;person%1:08:00::;homo%1:05:00::;man%1:05:01::;human_being%1:05:00::;adult_male%1:18:00::" id="doc1.s23.t3"/>
+         </sentence>
+         <sentence id="doc1.s24">
+            <word surface_form="pourquoi" lemma="pourquoi" pos="ADV"/>
+            <word surface_form="ris" lemma="rire" pos="VERB" wn30_key="smile%2:29:00::;express_joy%2:29:00::;grin%1:10:00::;smile%1:10:00::;smiling%1:10:00::;laugh%2:29:00::;grinning%1:10:00::;express_mirth%2:29:00::;laugh%1:10:02::" id="doc1.s24.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s25">
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="dois" lemma="devoir" pos="VERB" wn30_key="compel%2:41:00::;oblige%2:41:00::;obligate%2:41:00::" id="doc1.s25.t1"/>
+            <word surface_form="pas" lemma="pas" pos="ADV"/>
+            <word surface_form="mentir" lemma="mentir" pos="VERB" wn30_key="true%3:00:04::;truthful%3:00:00::;truth%1:10:00::;truth%1:09:00::;true_statement%1:10:00::;true%3:00:00::" id="doc1.s25.t2"/>
+         </sentence>
+         <sentence id="doc1.s26">
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="suis" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s26.t1"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s26.t2"/>
+            <word surface_form="trisha" lemma="trisha" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="suis" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s26.t3"/>
+            <word surface_form="daphne" lemma="daphne" pos="NOUN"/>
+         </sentence>
+         <sentence id="doc1.s27">
+            <word surface_form="que" lemma="que" pos="PRON"/>
+            <word surface_form="dis" lemma="dire" pos="VERB" wn30_key="tell%2:32:01::;narrate%2:32:00::;recite%2:32:01::;recount%2:32:00::" id="doc1.s27.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="remco" lemma="remco" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s28">
+            <word surface_form="oui" lemma="oui" pos="ADV" wn30_key="affirm%2:32:01::;avow%2:32:00::;swan%2:32:00::;aver%2:32:00::;yes%1:10:00::;affirmatively%4:02:00::;assert%2:32:00::;verify%2:32:03::;swear%2:32:03::;affirm%2:32:00::" id="doc1.s28.t1"/>
+            <word surface_form="on" lemma="on" pos="PRON"/>
+            <word surface_form="enverra" lemma="envoyer" pos="VERB"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="nous" lemma="nous" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s29">
+            <word surface_form="bonjour" lemma="bonjour" pos="NOUN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s29.t1"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s29.t2"/>
+            <word surface_form="anja" lemma="anja" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="veux" lemma="vouloir" pos="VERB" wn30_key="like%2:37:05::" id="doc1.s29.t3"/>
+            <word surface_form="qu'" lemma="que" pos="SCONJ"/>
+            <word surface_form="elle" lemma="lui" pos="PRON"/>
+            <word surface_form="revienne" lemma="revenir" pos="VERB" wn30_key="turn%2:38:00::;return%2:38:12::;turn%1:04:02::;bring_back%2:38:00::;return%2:38:00::;take_back%2:38:03::" id="doc1.s29.t4"/>
+            <word surface_form="vite" lemma="vite" pos="ADV" wn30_key="in_short_order%4:02:00::;spry%5:00:00:active:01;speedy%5:00:03:fast:01;quick%4:02:00::;fleet%5:00:00:fast:01;swift%5:00:00:fast:01;agile%5:00:00:active:01;fast%3:00:01::;quickly%4:02:02::;promptly%4:02:02::;quick%5:00:00:fast:01;apace%4:02:00::;quickly%4:02:00::;quick%5:00:00:active:01;chop-chop%4:02:00::;speedily%4:02:00::;rapidly%4:02:00::;nimble%5:00:00:active:01" id="doc1.s29.t5"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="salynka" lemma="salynka" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s30">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="cher" lemma="cher" pos="ADJ" wn30_key="pleasant%5:00:00:nice:00" id="doc1.s30.t1"/>
+            <word surface_form="bedirhan" lemma="bedirhan" pos="PROPN"/>
+            <word surface_form="merci" lemma="merci" pos="NOUN" wn30_key="thanks%1:10:00::;thank%2:32:00::;give_thanks%2:32:04::;thanks%1:04:00::" id="doc1.s30.t2"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="penses" lemma="penser" pos="VERB" wn30_key="intend%2:31:00::;cogitate%2:31:00::;cerebrate%2:31:00::;think%2:31:08::;mean%2:31:00::;think%2:31:06::;think%2:36:00::;think%2:31:00::" id="doc1.s30.t3"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="anniversaire" lemma="anniversaire" pos="NOUN" wn30_key="birthday%1:28:01::;birthday%1:28:00::;natal_day%1:28:00::" id="doc1.s30.t4"/>
+         </sentence>
+         <sentence id="doc1.s31">
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="vas" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s31.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s32">
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s32.t1"/>
+            <word surface_form="vu" lemma="voir" pos="VERB" wn30_key="view%2:39:00::;observe%2:39:00::;look_at%2:39:01::;consider%2:39:08::;see%2:39:00::;look%2:39:00::" id="doc1.s32.t2"/>
+            <word surface_form="ta" lemma="ton" pos="DET"/>
+            <word surface_form="classe" lemma="classe" pos="NOUN" wn30_key="classroom%1:06:00::;schoolroom%1:06:00::" id="doc1.s32.t3"/>
+            <word surface_form="en" lemma="en" pos="ADP"/>
+            <word surface_form="mars" lemma="mars" pos="NOUN" wn30_key="mar%1:28:00::;march%1:28:00::" id="doc1.s32.t4"/>
+         </sentence>
+         <sentence id="doc1.s33">
+            <word surface_form="mais" lemma="mais" pos="CCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="étais" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s33.t1"/>
+            <word surface_form="en" lemma="en" pos="ADP"/>
+            <word surface_form="voyage" lemma="voyage" pos="NOUN" wn30_key="go%2:38:00::;locomote%2:38:00::;jaunt%2:38:00::;trip%2:38:02::;travel%2:38:01::;travel%2:38:04::;move%2:38:03::;journey%2:38:00::;travel%2:38:00::" id="doc1.s33.t2"/>
+            <word surface_form="avec" lemma="avec" pos="ADP"/>
+            <word surface_form="l'" lemma="le" pos="DET"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s33.t3"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="les" lemma="le" pos="DET"/>
+            <word surface_form="enfants" lemma="enfant" pos="NOUN" wn30_key="boy%1:18:00::;male_child%1:18:00::" id="doc1.s33.t4"/>
+         </sentence>
+         <sentence id="doc1.s34">
+            <word surface_form="dommage" lemma="dommage" pos="NOUN" wn30_key="down_in_the_mouth%5:00:00:dejected:00;gloomy%5:00:00:dejected:00;grim%5:00:00:dejected:00;down%5:00:00:dejected:00;unhappy%3:00:00::;depressed%5:00:00:dejected:00;downhearted%5:00:00:dejected:00;low%5:00:00:dejected:00;downcast%5:00:00:dejected:00;distressed%3:00:04::;blue%5:00:00:dejected:00;sad%3:00:00::;unhappy%3:00:04::;low-spirited%5:00:00:dejected:00;dispirited%5:00:00:dejected:00;dysphoric%3:00:00::" id="doc1.s34.t1"/>
+         </sentence>
+         <sentence id="doc1.s35">
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="me" lemma="me" pos="PRON"/>
+            <word surface_form="manques" lemma="manquer" pos="VERB"/>
+            <word surface_form="ici" lemma="ici" pos="ADV" wn30_key="knuckleball%1:04:00::;here%4:02:00::;here%4:02:01::;hither%4:02:00::;knuckler%1:04:00::" id="doc1.s35.t1"/>
+            <word surface_form="sur" lemma="sur" pos="ADP" wn30_key="in_a_higher_place%4:02:00::;above%4:02:01::;to_a_higher_place%4:02:00::;higher_up%4:02:00::" id="doc1.s35.t2"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="pont" lemma="pont" pos="NOUN" wn30_key="span%1:06:00::;bridge%1:06:00::" id="doc1.s35.t3"/>
+         </sentence>
+         <sentence id="doc1.s36">
+            <word surface_form="mais" lemma="mais" pos="CCONJ"/>
+            <word surface_form="viens" lemma="venir" pos="VERB" wn30_key="come_up%2:38:02::;come%2:38:00::;come%2:38:04::;get%2:38:00::;arrive%2:38:00::" id="doc1.s36.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="encore" lemma="encore" pos="ADV" wn30_key="over_again%4:02:00::;once_more%4:02:00::;again%4:02:00::;once_again%4:02:00::" id="doc1.s36.t2"/>
+            <word surface_form="voir" lemma="voir" pos="VERB" wn30_key="view%2:39:00::;observe%2:39:00::;look_at%2:39:01::;consider%2:39:08::;see%2:39:00::;look%2:39:00::" id="doc1.s36.t3"/>
+            <word surface_form="notre" lemma="notre" pos="DET"/>
+            <word surface_form="fête" lemma="fête" pos="NOUN" wn30_key="festivity%1:04:00::;celebration%1:04:00::;party%1:11:00::" id="doc1.s36.t4"/>
+            <word surface_form="scolaire" lemma="scolaire" pos="ADJ" wn30_key="schoolhouse%1:06:00::;school%1:06:00::;school%1:14:00::" id="doc1.s36.t5"/>
+         </sentence>
+         <sentence id="doc1.s37">
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="te" lemma="te" pos="PRON" wn30_key="view%2:39:00::;observe%2:39:00::;look_at%2:39:01::;consider%2:39:08::;see%2:39:00::;look%2:39:00::" id="doc1.s37.t1"/>
+            <word surface_form="vois" lemma="voir" pos="VERB"/>
+            <word surface_form="encore" lemma="encore" pos="ADV" wn30_key="over_again%4:02:00::;once_more%4:02:00::;again%4:02:00::;once_again%4:02:00::" id="doc1.s37.t2"/>
+         </sentence>
+         <sentence id="doc1.s38">
+            <word surface_form="un" lemma="un" pos="DET" wn30_key="1%5:00:00:cardinal:00;one%1:23:00::;i%5:00:00:cardinal:00;unity%1:23:00::;ane%5:00:00:cardinal:00;single%1:23:00::;number%1:10:01::;odd%3:00:00::;uneven%3:00:04::;one%5:00:00:cardinal:00;numeral%1:10:00::;1%1:23:00::;number%1:23:00::;ace%1:23:00::;i%1:23:00::" id="doc1.s38.t1"/>
+            <word surface_form="gros" lemma="gros" pos="ADJ" wn30_key="greater%3:00:00::;tall%3:00:00::" id="doc1.s38.t2"/>
+            <word surface_form="câlin" lemma="câlin" pos="NOUN"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s38.t3"/>
+            <word surface_form="corina" lemma="corina" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s39">
+            <word surface_form="bonjour" lemma="bonjour" pos="NOUN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s39.t1"/>
+            <word surface_form="tout" lemma="tout" pos="PRON" wn30_key="completely%4:02:04::;all%5:00:00:complete:00;totally%4:02:00::;right%4:02:07::;entirely%4:02:00::;all%4:02:00::;altogether%4:02:04::;wholly%4:02:00::;whole%4:02:00::" id="doc1.s39.t2"/>
+            <word surface_form="va" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s39.t3"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s39.t4"/>
+            <word surface_form="toi" lemma="toi" pos="PRON"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="mes" lemma="mon" pos="DET"/>
+            <word surface_form="parents" lemma="parent" pos="NOUN" wn30_key="parent%1:18:00::" id="doc1.s39.t5"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="sœur" lemma="sœur" pos="NOUN" wn30_key="sister%1:18:00::;sis%1:18:00::" id="doc1.s39.t6"/>
+            <word surface_form="sont" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s39.t7"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s39.t8"/>
+            <word surface_form="contents" lemma="content" pos="ADJ" wn30_key="contented%3:00:00::;content%3:00:00::;happy%3:00:00::" id="doc1.s39.t9"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="suis" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s39.t10"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s39.t11"/>
+            <word surface_form="content" lemma="content" pos="ADJ" wn30_key="contented%3:00:00::;content%3:00:00::;happy%3:00:00::" id="doc1.s39.t12"/>
+            <word surface_form="promener" lemma="promener" pos="VERB"/>
+            <word surface_form="sports" lemma="sport" pos="NOUN" wn30_key="sport%1:04:00::;sport%1:04:01::;athletics%1:04:00::" id="doc1.s39.t13"/>
+            <word surface_form="moi" lemma="moi" pos="PRON"/>
+            <word surface_form="régime" lemma="régime" pos="NOUN" wn30_key="diet%2:34:01::;diet%2:34:00::;diet%1:04:00::;dieting%1:04:00::;diet%1:13:00::" id="doc1.s39.t14"/>
+            <word surface_form="c'" lemma="ce" pos="PRON"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s39.t15"/>
+            <word surface_form="difficile" lemma="difficile" pos="ADJ" wn30_key="difficult%3:00:00::;hard%3:00:06::;complicated%5:00:00:complex:00;complex%5:00:01:complex:00" id="doc1.s39.t16"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="régime" lemma="régime" pos="NOUN" wn30_key="diet%2:34:01::;diet%2:34:00::;diet%1:04:00::;dieting%1:04:00::;diet%1:13:00::" id="doc1.s39.t17"/>
+            <word surface_form="merci" lemma="merci" pos="NOUN" wn30_key="thanks%1:10:00::;thank%2:32:00::;give_thanks%2:32:04::;thanks%1:04:00::" id="doc1.s39.t18"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s39.t19"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="professeur" lemma="professeur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s39.t20"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="meryem" lemma="meryem" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s40">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="marthe" lemma="marthe" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="reviens" lemma="revenir" pos="VERB" wn30_key="turn%2:38:00::;return%2:38:12::;turn%1:04:02::;bring_back%2:38:00::;return%2:38:00::;take_back%2:38:03::" id="doc1.s40.t1"/>
+            <word surface_form="lundi" lemma="lundi" pos="NOUN" wn30_key="mon%1:28:00::;monday%1:28:00::" id="doc1.s40.t2"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="l'" lemma="le" pos="DET"/>
+            <word surface_form="école" lemma="école" pos="NOUN" wn30_key="schoolhouse%1:06:00::;school%1:06:00::;school%1:14:00::" id="doc1.s40.t3"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="serai" lemma="être" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s40.t4"/>
+            <word surface_form="en" lemma="en" pos="ADP"/>
+            <word surface_form="cuisine" lemma="cuisine" pos="NOUN" wn30_key="prepare%2:36:01::;fix%2:36:00::;stew%2:30:00::;cook%2:36:00::;ready%2:36:00::;make%2:36:07::;cook%2:36:01::" id="doc1.s40.t5"/>
+            <word surface_form="demain" lemma="demain" pos="ADV" wn30_key="tomorrow%4:02:00::" id="doc1.s40.t6"/>
+         </sentence>
+         <sentence id="doc1.s41">
+            <word surface_form="bonjour" lemma="bonjour" pos="NOUN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s41.t1"/>
+            <word surface_form="kendie" lemma="kendie" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="suis" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s41.t2"/>
+            <word surface_form="la" lemma="le" pos="DET"/>
+            <word surface_form="cousine" lemma="cousin" pos="NOUN" wn30_key="first_cousin%1:18:00::;full_cousin%1:18:00::;cousin-german%1:18:00::;cousin%1:18:00::" id="doc1.s41.t3"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="rabia" lemma="rabia" pos="PROPN"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="peux" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="wainot" lemma="wainot" pos="PROPN"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="elle" lemma="lui" pos="PRON"/>
+            <word surface_form="a" lemma="avoir" pos="AUX"/>
+            <word surface_form="dit" lemma="dire" pos="VERB" wn30_key="tell%2:32:01::;narrate%2:32:00::;recite%2:32:01::;recount%2:32:00::" id="doc1.s41.t4"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="es" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s41.t5"/>
+            <word surface_form="sa" lemma="son" pos="DET"/>
+            <word surface_form="meilleure" lemma="meilleur" pos="ADJ" wn30_key="admire%2:39:00::;better%4:02:01::;admire%2:37:00::;look_up_to%2:37:00::;better%3:00:00::;best%4:02:03::" id="doc1.s41.t6"/>
+            <word surface_form="amie" lemma="amie" pos="NOUN" wn30_key="friend%1:18:02::;acquaintance%1:18:00::;friend%1:18:00::" id="doc1.s41.t7"/>
+         </sentence>
+         <sentence id="doc1.s42">
+            <word surface_form="ce" lemma="ce" pos="PRON"/>
+            <word surface_form="n'" lemma="ne" pos="ADV"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s42.t1"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s42.t2"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="bonne" lemma="bon" pos="ADJ" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s42.t3"/>
+            <word surface_form="nouvelle" lemma="nouvelle" pos="NOUN" wn30_key="new%3:00:09::;new%3:00:00::" id="doc1.s42.t4"/>
+            <word surface_form="les" lemma="le" pos="DET"/>
+            <word surface_form="chats" lemma="chat" pos="NOUN" wn30_key="kitty%1:05:01::;cat%1:05:00::;pussycat%1:05:00::;pussy%1:05:00::;kitty-cat%1:05:00::;puss%1:05:00::;true_cat%1:05:00::" id="doc1.s42.t5"/>
+         </sentence>
+         <sentence id="doc1.s43">
+            <word surface_form="triste" lemma="triste" pos="ADJ" wn30_key="down_in_the_mouth%5:00:00:dejected:00;gloomy%5:00:00:dejected:00;grim%5:00:00:dejected:00;down%5:00:00:dejected:00;unhappy%3:00:00::;depressed%5:00:00:dejected:00;downhearted%5:00:00:dejected:00;low%5:00:00:dejected:00;downcast%5:00:00:dejected:00;distressed%3:00:04::;blue%5:00:00:dejected:00;sad%3:00:00::;unhappy%3:00:04::;low-spirited%5:00:00:dejected:00;dispirited%5:00:00:dejected:00;dysphoric%3:00:00::" id="doc1.s43.t1"/>
+         </sentence>
+         <sentence id="doc1.s44">
+            <word surface_form="bon" lemma="bon" pos="ADJ" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s44.t1"/>
+            <word surface_form="voyage" lemma="voyage" pos="NOUN" wn30_key="route%1:15:00::;path%1:15:00::;travel_plan%1:09:00::;trip%1:04:00::;itinerary%1:09:00::;itinerary%1:15:00::" id="doc1.s44.t2"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="la" lemma="le" pos="DET"/>
+            <word surface_form="mer" lemma="mer" pos="NOUN" wn30_key="ocean%1:17:00::;sea%1:17:00::" id="doc1.s44.t3"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="apporte" lemma="apporter" pos="VERB" wn30_key="put_up%2:40:01::;bring%2:38:00::;convey%2:38:00::;contribute%2:40:02::;take%2:38:10::" id="doc1.s44.t4"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="soleil" lemma="soleil" pos="NOUN" wn30_key="sun%1:17:00::" id="doc1.s44.t5"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="veux" lemma="vouloir" pos="VERB" wn30_key="like%2:37:05::" id="doc1.s44.t6"/>
+            <word surface_form="dimanche" lemma="dimanche" pos="NOUN" wn30_key="sunday%1:28:00::;lord's_day%1:28:00::;dominicus%1:28:00::;monday%1:28:00::;mon%1:28:00::;sun%1:28:00::" id="doc1.s44.t7"/>
+         </sentence>
+         <sentence id="doc1.s45">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="geva" lemma="geva" pos="PROPN"/>
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="vas" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s45.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="as" lemma="avoir" pos="VERB" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s45.t2"/>
+            <word surface_form="beaucoup" lemma="beaucoup" pos="ADV" wn30_key="a_good_deal%4:02:00::;a_lot%4:02:00::;very_much%4:02:01::;much%4:02:00::;a_great_deal%4:02:00::;lots%4:02:00::;much%4:02:04::" id="doc1.s45.t3"/>
+            <word surface_form="mal" lemma="mal" pos="ADV" wn30_key="hurt%2:39:01::;ache%2:39:01::;hurt%2:29:02::;suffer%2:29:00::;suffer%2:39:00::" id="doc1.s45.t4"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="te" lemma="te" pos="PRON" wn30_key="like%2:37:05::" id="doc1.s45.t5"/>
+            <word surface_form="souhaite" lemma="souhaiter" pos="VERB"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="bonne" lemma="bon" pos="ADJ" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s45.t6"/>
+            <word surface_form="santé" lemma="santé" pos="NOUN" wn30_key="health%1:26:00::;wellness%1:26:00::;health%1:26:01::" id="doc1.s45.t7"/>
+         </sentence>
+         <sentence id="doc1.s46">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="kim" lemma="kim" pos="PROPN"/>
+            <word surface_form="merci" lemma="merci" pos="NOUN" wn30_key="thanks%1:10:00::;thank%2:32:00::;give_thanks%2:32:04::;thanks%1:04:00::" id="doc1.s46.t1"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="sois" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s46.t2"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="ami" lemma="ami" pos="NOUN" wn30_key="friend%1:18:02::;acquaintance%1:18:00::;friend%1:18:00::" id="doc1.s46.t3"/>
+            <word surface_form="sur" lemma="sur" pos="ADP" wn30_key="in_a_higher_place%4:02:00::;above%4:02:01::;to_a_higher_place%4:02:00::;higher_up%4:02:00::" id="doc1.s46.t4"/>
+            <word surface_form="wainot" lemma="wainot" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s47">
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="te" lemma="te" pos="PRON"/>
+            <word surface_form="trouve" lemma="trouver" pos="VERB" wn30_key="intend%2:31:00::;cogitate%2:31:00::;cerebrate%2:31:00::;think%2:31:08::;mean%2:31:00::;think%2:31:06::;think%2:36:00::;think%2:31:00::" id="doc1.s47.t1"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="great%5:00:00:good:01;swell%5:00:00:good:01;peachy%5:00:00:good:01;fantastic%5:00:00:extraordinary:00;fine%5:00:00:satisfactory:00;hunky-dory%5:00:00:satisfactory:00;rattling%5:00:00:extraordinary:00;marvelous%5:00:00:extraordinary:00;bully%5:00:00:good:01;slap-up%5:00:00:good:01;neat%5:00:00:good:01;smashing%5:00:00:good:01;o.k.%5:00:00:satisfactory:00;bang-up%5:00:00:good:01;wonderful%5:00:00:extraordinary:00;wondrous%5:00:00:extraordinary:00;okay%5:00:00:satisfactory:00;cool%5:00:00:satisfactory:00;not_bad%5:00:00:good:01;dandy%5:00:00:good:01;tremendous%5:00:00:extraordinary:00;keen%5:00:00:good:01;all_right%5:00:00:satisfactory:00;terrific%5:00:00:extraordinary:00;groovy%5:00:00:good:01;howling%5:00:00:extraordinary:00;ok%5:00:00:satisfactory:00;grand%5:00:00:extraordinary:00;cracking%5:00:00:good:01;successful%3:00:00::;marvellous%5:00:00:extraordinary:00;nifty%5:00:00:good:01;corking%5:00:00:good:01;old%5:00:00:good:01" id="doc1.s47.t2"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="great%5:00:00:good:01;swell%5:00:00:good:01;peachy%5:00:00:good:01;fantastic%5:00:00:extraordinary:00;fine%5:00:00:satisfactory:00;hunky-dory%5:00:00:satisfactory:00;rattling%5:00:00:extraordinary:00;marvelous%5:00:00:extraordinary:00;bully%5:00:00:good:01;slap-up%5:00:00:good:01;neat%5:00:00:good:01;smashing%5:00:00:good:01;o.k.%5:00:00:satisfactory:00;bang-up%5:00:00:good:01;wonderful%5:00:00:extraordinary:00;wondrous%5:00:00:extraordinary:00;okay%5:00:00:satisfactory:00;cool%5:00:00:satisfactory:00;not_bad%5:00:00:good:01;dandy%5:00:00:good:01;tremendous%5:00:00:extraordinary:00;keen%5:00:00:good:01;all_right%5:00:00:satisfactory:00;terrific%5:00:00:extraordinary:00;groovy%5:00:00:good:01;howling%5:00:00:extraordinary:00;ok%5:00:00:satisfactory:00;grand%5:00:00:extraordinary:00;cracking%5:00:00:good:01;successful%3:00:00::;marvellous%5:00:00:extraordinary:00;nifty%5:00:00:good:01;corking%5:00:00:good:01;old%5:00:00:good:01" id="doc1.s47.t3"/>
+            <word surface_form="merci" lemma="merci" pos="NOUN" wn30_key="thanks%1:10:00::;thank%2:32:00::;give_thanks%2:32:04::;thanks%1:04:00::" id="doc1.s47.t4"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="sois" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s47.t5"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="ami" lemma="ami" pos="NOUN" wn30_key="friend%1:18:02::;acquaintance%1:18:00::;friend%1:18:00::" id="doc1.s47.t6"/>
+         </sentence>
+         <sentence id="doc1.s48">
+            <word surface_form="quel" lemma="quel" pos="DET"/>
+            <word surface_form="âge" lemma="âge" pos="NOUN"/>
+            <word surface_form="as" lemma="avoir" pos="AUX"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s49">
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="VERB" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s49.t1"/>
+            <word surface_form="13" lemma="13" pos="NUM" wn30_key="13%5:00:00:cardinal:00;xiii%5:00:00:cardinal:00;thirteen%1:23:00::;13%1:23:00::;number%1:10:01::;xiii%1:23:00::;numeral%1:10:00::;baker's_dozen%1:23:00::;number%1:23:00::;thirteen%5:00:00:cardinal:00;long_dozen%1:23:00::" id="doc1.s49.t2"/>
+            <word surface_form="ans" lemma="an" pos="NOUN"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="anniversaire" lemma="anniversaire" pos="NOUN" wn30_key="birthday%1:28:01::;birthday%1:28:00::;natal_day%1:28:00::" id="doc1.s49.t3"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="15" lemma="15" pos="NUM" wn30_key="fifteen%5:00:00:cardinal:00;xv%5:00:00:cardinal:00;fifteen%1:23:00::;number%1:10:01::;xv%1:23:00::;numeral%1:10:00::;number%1:23:00::;15%1:23:00::;15%5:00:00:cardinal:00" id="doc1.s49.t4"/>
+            <word surface_form="mai" lemma="mai" pos="NOUN" wn30_key="may%1:28:00::" id="doc1.s49.t5"/>
+         </sentence>
+         <sentence id="doc1.s50">
+            <word surface_form="où" lemma="où" pos="ADV"/>
+            <word surface_form="habites" lemma="habiter" pos="VERB" wn30_key="interrogation%1:10:01::;interrogative_sentence%1:10:00::;address%1:15:00::;interrogative%1:10:00::;question%1:10:03::" id="doc1.s50.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s51">
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="habite" lemma="habiter" pos="VERB" wn30_key="populate%2:42:00::;live%2:42:08::;inhabit%2:42:00::;occupy%2:42:00::;dwell%2:42:00::;lodge_in%2:42:00::;reside%2:42:01::" id="doc1.s51.t1"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="berlaar" lemma="berlaar" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s52">
+            <word surface_form="désolé" lemma="désolé" pos="ADJ" wn30_key="bad%3:00:09::;regretful%3:00:00::;forgive%2:32:00::;sorry%3:00:02::" id="doc1.s52.t1"/>
+            <word surface_form="pour" lemma="pour" pos="ADP"/>
+            <word surface_form="la" lemma="le" pos="DET"/>
+            <word surface_form="longue" lemma="long" pos="ADJ" wn30_key="long%3:00:01::" id="doc1.s52.t2"/>
+            <word surface_form="attente" lemma="attente" pos="NOUN" wn30_key="waiting%1:04:00::;wait%1:04:00::" id="doc1.s52.t3"/>
+         </sentence>
+         <sentence id="doc1.s53">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+         </sentence>
+         <sentence id="doc1.s54">
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="peter" lemma="peter" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s55">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="wannes" lemma="wannes" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="pars" lemma="partir" pos="VERB" wn30_key="rubberneck%1:18:01::;hike%2:38:00::;excursion%1:04:00::;pleasure_trip%1:04:00::;hiker%1:18:00::;junket%1:04:00::;outing%1:04:00::;expedition%1:04:02::;tramp%1:18:02::;jaunt%1:04:00::;sightseer%1:18:00::;sashay%1:04:02::;walk%2:38:00::;excursionist%1:18:00::;tramper%1:18:01::;tripper%1:18:00::" id="doc1.s55.t1"/>
+            <word surface_form="demain" lemma="demain" pos="ADV" wn30_key="tomorrow%4:02:00::" id="doc1.s55.t2"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="kokzijde" lemma="kokzijde" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="reviens" lemma="revenir" pos="VERB" wn30_key="turn%2:38:00::;return%2:38:12::;turn%1:04:02::;bring_back%2:38:00::;return%2:38:00::;take_back%2:38:03::" id="doc1.s55.t3"/>
+            <word surface_form="dimanche" lemma="dimanche" pos="NOUN" wn30_key="sunday%1:28:00::;lord's_day%1:28:00::;dominicus%1:28:00::;monday%1:28:00::;mon%1:28:00::;sun%1:28:00::" id="doc1.s55.t4"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="t'" lemma="te" pos="PRON"/>
+            <word surface_form="écrirai" lemma="écrire" pos="VERB" wn30_key="writing%1:10:01::;write%2:36:01::;write%2:32:00::" id="doc1.s55.t5"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="lettre" lemma="lettre" pos="NOUN" wn30_key="letter%1:10:00::;post%1:10:00::;mail_service%1:10:00::;missive%1:10:00::;postal_service%1:10:00::;mail%1:10:00::" id="doc1.s55.t6"/>
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="c'" lemma="ce" pos="PRON"/>
+            <word surface_form="était" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s55.t7"/>
+            <word surface_form="annick" lemma="annick" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s56">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="julie" lemma="julie" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="peux" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s56.t1"/>
+            <word surface_form="venir" lemma="venir" pos="VERB" wn30_key="come_up%2:38:02::;come%2:38:00::;come%2:38:04::;get%2:38:00::;arrive%2:38:00::" id="doc1.s56.t2"/>
+            <word surface_form="nager" lemma="nager" pos="VERB" wn30_key="swim%2:38:00::" id="doc1.s56.t3"/>
+            <word surface_form="aujourd'hui" lemma="aujourd'hui" pos="ADV" wn30_key="today%4:02:00::" id="doc1.s56.t4"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="evelien" lemma="evelien" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s57">
+            <word surface_form="salut" lemma="salut" pos="ADV"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s57.t1"/>
+            <word surface_form="marthe" lemma="marthe" pos="PROPN"/>
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="vas" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s57.t2"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="as" lemma="avoir" pos="VERB" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s57.t3"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="beaucoup" lemma="beaucoup" pos="ADV" wn30_key="a_good_deal%4:02:00::;a_lot%4:02:00::;several%5:00:00:some:00;numerous%5:00:00:many:00;very_much%4:02:01::;legion%5:00:00:many:00;much%3:00:00::;a_great_deal%4:02:00::;lots%4:02:00::;many%3:00:00::;much%4:02:04::" id="doc1.s57.t4"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="bouchons" lemma="bouchon" pos="NOUN" wn30_key="cork%1:06:00::;bottle_cork%1:06:00::" id="doc1.s57.t5"/>
+            <word surface_form="en" lemma="en" pos="ADP"/>
+            <word surface_form="plastique" lemma="plastique" pos="NOUN" wn30_key="plastic%1:27:00::" id="doc1.s57.t6"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="veux" lemma="vouloir" pos="VERB" wn30_key="like%2:37:05::" id="doc1.s57.t7"/>
+            <word surface_form="mettre" lemma="mettre" pos="VERB" wn30_key="introduce%2:30:03::;infix%2:35:01::;insert%2:35:00::;enter%2:35:03::;inclose%2:30:00::;insert%2:30:00::;enclose%2:30:00::;stick_in%2:30:00::;introduce%2:35:00::;put_in%2:30:00::" id="doc1.s57.t8"/>
+            <word surface_form="ce" lemma="ce" pos="DET"/>
+            <word surface_form="site" lemma="site" pos="NOUN" wn30_key="web_page%1:10:00::;webpage%1:10:00::" id="doc1.s57.t9"/>
+            <word surface_form="sur" lemma="sur" pos="ADP" wn30_key="in_a_higher_place%4:02:00::;above%4:02:01::;to_a_higher_place%4:02:00::;higher_up%4:02:00::" id="doc1.s57.t10"/>
+            <word surface_form="wainot" lemma="wainot" pos="PROPN"/>
+            <word surface_form="pour" lemma="pour" pos="ADP"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="écrives" lemma="écrire" pos="VERB" wn30_key="writing%1:10:01::;write%2:36:01::;write%2:32:00::" id="doc1.s57.t11"/>
+            <word surface_form="des" lemma="un" pos="DET"/>
+            <word surface_form="lettres" lemma="lettre" pos="NOUN" wn30_key="letter%1:10:00::;post%1:10:00::;mail_service%1:10:00::;missive%1:10:00::;postal_service%1:10:00::;mail%1:10:00::" id="doc1.s57.t12"/>
+            <word surface_form="en" lemma="en" pos="ADP"/>
+            <word surface_form="braille" lemma="braille" pos="NOUN" wn30_key="braille%1:10:00::" id="doc1.s57.t13"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="site" lemma="site" pos="NOUN" wn30_key="web_page%1:10:00::;webpage%1:10:00::" id="doc1.s57.t14"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s57.t15"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="name" lemma="name" pos="X"/>
+            <word surface_form="game" lemma="game" pos="X"/>
+            <word surface_form="braille" lemma="braille" pos="PROPN"/>
+            <word surface_form="bug" lemma="bug" pos="NOUN"/>
+         </sentence>
+         <sentence id="doc1.s58">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="natalia" lemma="natalia" pos="PROPN"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="AUX"/>
+            <word surface_form="trouvé" lemma="trouver" pos="VERB" wn30_key="intend%2:31:00::;cogitate%2:31:00::;cerebrate%2:31:00::;think%2:31:08::;mean%2:31:00::;think%2:31:06::;think%2:36:00::;think%2:31:00::" id="doc1.s58.t1"/>
+            <word surface_form="cela" lemma="celer" pos="PRON"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s58.t2"/>
+            <word surface_form="triste" lemma="triste" pos="ADJ" wn30_key="down_in_the_mouth%5:00:00:dejected:00;gloomy%5:00:00:dejected:00;grim%5:00:00:dejected:00;down%5:00:00:dejected:00;unhappy%3:00:00::;depressed%5:00:00:dejected:00;downhearted%5:00:00:dejected:00;low%5:00:00:dejected:00;downcast%5:00:00:dejected:00;distressed%3:00:04::;blue%5:00:00:dejected:00;sad%3:00:00::;unhappy%3:00:04::;low-spirited%5:00:00:dejected:00;dispirited%5:00:00:dejected:00;dysphoric%3:00:00::" id="doc1.s58.t3"/>
+            <word surface_form="pour" lemma="pour" pos="ADP"/>
+            <word surface_form="toi" lemma="toi" pos="PRON"/>
+            <word surface_form="quand" lemma="quand" pos="SCONJ"/>
+            <word surface_form="cela" lemma="celer" pos="PRON"/>
+            <word surface_form="s'" lemma="se" pos="PRON"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s58.t4"/>
+            <word surface_form="passé" lemma="passer" pos="VERB" wn30_key="past%3:00:00::" id="doc1.s58.t5"/>
+            <word surface_form="tout" lemma="tout" pos="ADV"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="l'" lemma="le" pos="DET"/>
+            <word surface_form="heure" lemma="heure" pos="NOUN"/>
+            <word surface_form="ou" lemma="ou" pos="CCONJ"/>
+            <word surface_form="plus" lemma="plus" pos="ADV"/>
+            <word surface_form="tard" lemma="tard" pos="ADV"/>
+            <word surface_form="mais" lemma="mais" pos="CCONJ"/>
+            <word surface_form="fille" lemma="fille" pos="NOUN" wn30_key="female_child%1:18:00::;girl%1:18:02::;little_girl%1:18:00::" id="doc1.s58.t6"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s58.t7"/>
+            <word surface_form="triste" lemma="triste" pos="ADJ" wn30_key="down_in_the_mouth%5:00:00:dejected:00;gloomy%5:00:00:dejected:00;grim%5:00:00:dejected:00;down%5:00:00:dejected:00;unhappy%3:00:00::;depressed%5:00:00:dejected:00;downhearted%5:00:00:dejected:00;low%5:00:00:dejected:00;downcast%5:00:00:dejected:00;distressed%3:00:04::;blue%5:00:00:dejected:00;sad%3:00:00::;unhappy%3:00:04::;low-spirited%5:00:00:dejected:00;dispirited%5:00:00:dejected:00;dysphoric%3:00:00::" id="doc1.s58.t8"/>
+            <word surface_form="peux" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="l'" lemma="le" pos="PRON"/>
+            <word surface_form="enterrer" lemma="enterrer" pos="VERB" wn30_key="inhumation%1:11:00::;obsequy%1:11:00::;entombment%1:11:00::;interment%1:11:00::;burial%1:11:00::;sepulture%1:11:00::;funeral%1:11:00::" id="doc1.s58.t9"/>
+            <word surface_form="dans" lemma="dans" pos="ADP"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="jardin" lemma="jardin" pos="NOUN" wn30_key="garden%1:06:01::;garden%1:06:00::" id="doc1.s58.t10"/>
+            <word surface_form="ou" lemma="ou" pos="CCONJ"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="move%2:38:03::;locomote%2:38:00::;travel%2:38:00::;go%2:38:00::" id="doc1.s58.t11"/>
+            <word surface_form="aller" lemma="aller" pos="VERB" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s58.t12"/>
+            <word surface_form="prendre" lemma="prendre" pos="VERB" wn30_key="take%2:40:01::;snaffle%2:40:00::;grab%2:40:00::;snap_up%2:40:00::;snatch_up%2:35:00::;snatch%2:35:00::;snap%2:35:00::" id="doc1.s58.t13"/>
+            <word surface_form="un" lemma="un" pos="DET" wn30_key="1%5:00:00:cardinal:00;one%1:23:00::;i%5:00:00:cardinal:00;unity%1:23:00::;ane%5:00:00:cardinal:00;single%1:23:00::;number%1:10:01::;odd%3:00:00::;uneven%3:00:04::;one%5:00:00:cardinal:00;numeral%1:10:00::;1%1:23:00::;number%1:23:00::;ace%1:23:00::;i%1:23:00::" id="doc1.s58.t14"/>
+            <word surface_form="gros" lemma="gros" pos="ADJ" wn30_key="greater%3:00:00::;tall%3:00:00::" id="doc1.s58.t15"/>
+            <word surface_form="sac" lemma="sac" pos="NOUN"/>
+            <word surface_form="noir" lemma="noir" pos="ADJ" wn30_key="black%3:00:01::" id="doc1.s58.t16"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="apporte" lemma="apporter" pos="VERB" wn30_key="put_up%2:40:01::;bring%2:38:00::;convey%2:38:00::;contribute%2:40:02::;take%2:38:10::" id="doc1.s58.t17"/>
+            <word surface_form="le" lemma="le" pos="PRON"/>
+            <word surface_form="au" lemma="au" pos="ADP"/>
+            <word surface_form="cimetière" lemma="cimetière" pos="NOUN" wn30_key="necropolis%1:15:00::;cemetery%1:15:00::;graveyard%1:15:00::;burial_ground%1:15:00::;memorial_park%1:15:00::;burying_ground%1:15:00::;burial_site%1:15:00::" id="doc1.s58.t18"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="VERB" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s58.t19"/>
+            <word surface_form="les" lemma="le" pos="DET"/>
+            <word surface_form="larmes" lemma="larme" pos="NOUN"/>
+            <word surface_form="dans" lemma="dans" pos="ADP"/>
+            <word surface_form="mes" lemma="mon" pos="DET"/>
+            <word surface_form="yeux" lemma="oeil" pos="NOUN" wn30_key="oculus%1:08:00::;eye%1:08:00::;optic%1:08:00::" id="doc1.s58.t20"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="trouve" lemma="trouver" pos="VERB" wn30_key="intend%2:31:00::;cogitate%2:31:00::;cerebrate%2:31:00::;think%2:31:08::;mean%2:31:00::;think%2:31:06::;think%2:36:00::;think%2:31:00::" id="doc1.s58.t21"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="c'" lemma="ce" pos="PRON"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s58.t22"/>
+            <word surface_form="vraiment" lemma="vraiment" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s58.t23"/>
+            <word surface_form="terrible" lemma="terrible" pos="ADJ" wn30_key="wicked%3:00:00::;bad%3:00:00::" id="doc1.s58.t24"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="chauffeur" lemma="chauffeur" pos="NOUN" wn30_key="driver%1:18:00::" id="doc1.s58.t25"/>
+            <word surface_form="n'" lemma="ne" pos="ADV"/>
+            <word surface_form="ait" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s58.t26"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="view%2:39:00::;observe%2:39:00::;look_at%2:39:01::;consider%2:39:08::;see%2:39:00::;look%2:39:00::" id="doc1.s58.t27"/>
+            <word surface_form="vu" lemma="voir" pos="VERB" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s58.t28"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="chat" lemma="chat" pos="NOUN" wn30_key="kitty%1:05:01::;cat%1:05:00::;pussycat%1:05:00::;pussy%1:05:00::;kitty-cat%1:05:00::;puss%1:05:00::;true_cat%1:05:00::" id="doc1.s58.t29"/>
+            <word surface_form="stupide" lemma="stupide" pos="ADJ" wn30_key="wicked%3:00:00::;bad%3:00:00::" id="doc1.s58.t30"/>
+            <word surface_form="c'" lemma="ce" pos="PRON"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s58.t31"/>
+            <word surface_form="moi" lemma="moi" pos="PRON"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="espère" lemma="espérer" pos="VERB" wn30_key="please%4:02:00::;implore%2:32:00::;beg%2:32:01::;do%2:29:09::;beg%2:32:00::;act%2:29:00::;pray%2:32:01::;behave%2:29:00::;solicit%2:32:00::;tap%2:32:00::" id="doc1.s58.t32"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="auras" lemma="avoir" pos="VERB" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s58.t33"/>
+            <word surface_form="un" lemma="un" pos="DET" wn30_key="1%5:00:00:cardinal:00;one%1:23:00::;i%5:00:00:cardinal:00;unity%1:23:00::;ane%5:00:00:cardinal:00;single%1:23:00::;number%1:10:01::;odd%3:00:00::;uneven%3:00:04::;one%5:00:00:cardinal:00;numeral%1:10:00::;1%1:23:00::;number%1:23:00::;ace%1:23:00::;i%1:23:00::" id="doc1.s58.t34"/>
+            <word surface_form="nouveau" lemma="nouveau" pos="ADJ" wn30_key="new%3:00:00::" id="doc1.s58.t35"/>
+            <word surface_form="chat" lemma="chat" pos="NOUN" wn30_key="kitty%1:05:01::;cat%1:05:00::;pussycat%1:05:00::;pussy%1:05:00::;kitty-cat%1:05:00::;puss%1:05:00::;true_cat%1:05:00::" id="doc1.s58.t36"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="n'" lemma="ne" pos="ADV"/>
+            <word surface_form="en" lemma="en" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="VERB" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s58.t37"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s58.t38"/>
+            <word surface_form="sinon" lemma="sinon" pos="ADV"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="t'" lemma="te" pos="PRON"/>
+            <word surface_form="en" lemma="en" pos="PRON"/>
+            <word surface_form="aurais" lemma="avoir" pos="AUX"/>
+            <word surface_form="donné" lemma="donner" pos="VERB" wn30_key="reach%2:40:00::;turn_over%2:40:00::;give%2:40:00::;offer%2:40:00::;proffer%2:40:00::;pass%2:40:00::;hand%2:40:00::;pass_on%2:40:01::;give%2:40:06::" id="doc1.s58.t39"/>
+            <word surface_form="un" lemma="un" pos="DET" wn30_key="1%5:00:00:cardinal:00;one%1:23:00::;i%5:00:00:cardinal:00;unity%1:23:00::;ane%5:00:00:cardinal:00;single%1:23:00::;number%1:10:01::;odd%3:00:00::;uneven%3:00:04::;one%5:00:00:cardinal:00;numeral%1:10:00::;1%1:23:00::;number%1:23:00::;ace%1:23:00::;i%1:23:00::" id="doc1.s58.t40"/>
+            <word surface_form="beaucoup" lemma="beaucoup" pos="ADV" wn30_key="a_good_deal%4:02:00::;a_lot%4:02:00::;very_much%4:02:01::;much%4:02:00::;a_great_deal%4:02:00::;lots%4:02:00::;much%4:02:04::" id="doc1.s58.t41"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="courage" lemma="courage" pos="NOUN" wn30_key="cheer_up%2:32:01::;encourage%2:37:00::;jolly_up%2:32:00::;jolly_along%2:32:00::;cheer%2:32:03::" id="doc1.s58.t42"/>
+            <word surface_form="annick" lemma="annick" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s59">
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="dois" lemma="devoir" pos="VERB" wn30_key="compel%2:41:00::;oblige%2:41:00::;obligate%2:41:00::" id="doc1.s59.t1"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="ajouter" lemma="ajouter" pos="VERB"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="nouvelle" lemma="nouveau" pos="ADJ"/>
+            <word surface_form="adresse" lemma="adresse" pos="NOUN"/>
+            <word surface_form="email" lemma="e-mail" pos="NOUN"/>
+         </sentence>
+         <sentence id="doc1.s60">
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s60.t1"/>
+            <word surface_form="malheureusement" lemma="malheureusement" pos="ADV"/>
+            <word surface_form="supprimé" lemma="supprimer" pos="VERB" wn30_key="rub_out%2:35:00::;erase%2:35:00::;efface%2:35:00::;score_out%2:35:00::;wipe_off%2:35:01::" id="doc1.s60.t2"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="précédent" lemma="précédent" pos="ADJ" wn30_key="old%5:00:00:preceding:00;precede%2:41:00::;come_before%2:41:00::;previous%5:00:00:preceding:00" id="doc1.s60.t3"/>
+            <word surface_form="email" lemma="e-mail" pos="NOUN" wn30_key="e-mail%1:10:00::;electronic_mail%1:10:00::;email%1:10:00::" id="doc1.s60.t4"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="michael" lemma="michael" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s61">
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="chat" lemma="chat" pos="NOUN" wn30_key="kitty%1:05:01::;cat%1:05:00::;pussycat%1:05:00::;pussy%1:05:00::;kitty-cat%1:05:00::;puss%1:05:00::;true_cat%1:05:00::" id="doc1.s61.t1"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s61.t2"/>
+            <word surface_form="mort" lemma="mourir" pos="VERB" wn30_key="dead%3:00:01::" id="doc1.s61.t3"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="cause" lemma="cause" pos="NOUN"/>
+            <word surface_form="d'" lemma="de" pos="ADP"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="stupide" lemma="stupide" pos="ADJ" wn30_key="wicked%3:00:00::;bad%3:00:00::" id="doc1.s61.t4"/>
+            <word surface_form="voiture" lemma="voiture" pos="NOUN" wn30_key="car%1:06:00::;vehicle%1:06:00::;automobile%1:06:00::;auto%1:06:00::;motorcar%1:06:00::;machine%1:06:01::" id="doc1.s61.t5"/>
+         </sentence>
+         <sentence id="doc1.s62">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="professeur" lemma="professeur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s62.t1"/>
+            <word surface_form="fernand" lemma="fernand" pos="PROPN"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s62.t2"/>
+            <word surface_form="mangé" lemma="manger" pos="VERB" wn30_key="eat%2:34:00::;ingest%2:34:00::;take_in%2:34:00::;have%2:34:00::;consume%2:34:00::;take%2:34:00::" id="doc1.s62.t3"/>
+            <word surface_form="des" lemma="un" pos="DET"/>
+            <word surface_form="frites" lemma="frite" pos="NOUN" wn30_key="french-fried_potatoes%1:13:00::;chips%1:13:01::;french_fries%1:13:00::;fries%1:13:00::" id="doc1.s62.t4"/>
+            <word surface_form="c'" lemma="ce" pos="PRON"/>
+            <word surface_form="était" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s62.t5"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s62.t6"/>
+            <word surface_form="bon" lemma="bon" pos="ADJ" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s62.t7"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="il" lemma="il" pos="PRON" wn30_key="be%2:42:00::;exist%2:42:00::" id="doc1.s62.t8"/>
+            <word surface_form="y" lemma="y" pos="PRON"/>
+            <word surface_form="avait" lemma="avoir" pos="VERB"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="la" lemma="le" pos="DET"/>
+            <word surface_form="mayonnaise" lemma="mayonnaise" pos="NOUN" wn30_key="mayo%1:13:00::;mayonnaise%1:13:00::" id="doc1.s62.t9"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="tim" lemma="tim" pos="PROPN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="bock" lemma="bock" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s63">
+            <word surface_form="oui" lemma="oui" pos="PROPN" wn30_key="affirm%2:32:01::;avow%2:32:00::;swan%2:32:00::;aver%2:32:00::;yes%1:10:00::;affirmatively%4:02:00::;assert%2:32:00::;verify%2:32:03::;swear%2:32:03::;affirm%2:32:00::" id="doc1.s63.t1"/>
+            <word surface_form="mais" lemma="mais" pos="CCONJ"/>
+            <word surface_form="demain" lemma="demain" pos="ADV" wn30_key="tomorrow%4:02:00::" id="doc1.s63.t2"/>
+            <word surface_form="ça" lemma="cela" pos="PRON"/>
+            <word surface_form="n'" lemma="ne" pos="ADV"/>
+            <word surface_form="ira" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s63.t3"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s63.t4"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="vais" lemma="aller" pos="VERB" wn30_key="move%2:38:03::;locomote%2:38:00::;travel%2:38:00::;go%2:38:00::" id="doc1.s63.t5"/>
+            <word surface_form="au" lemma="au" pos="ADP"/>
+            <word surface_form="camp" lemma="camp" pos="NOUN" wn30_key="encampment%1:15:00::;bivouac%1:15:00::;camping_ground%1:15:00::;camping_site%1:15:00::;campsite%1:15:00::;campground%1:15:00::;camping_area%1:15:00::" id="doc1.s63.t6"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="peux" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s63.t7"/>
+            <word surface_form="y" lemma="y" pos="PRON" wn30_key="there%4:02:00::" id="doc1.s63.t8"/>
+            <word surface_form="aller" lemma="aller" pos="VERB" wn30_key="move%2:38:03::;locomote%2:38:00::;travel%2:38:00::;go%2:38:00::" id="doc1.s63.t9"/>
+            <word surface_form="selon" lemma="selon" pos="ADP"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s63.t10"/>
+         </sentence>
+         <sentence id="doc1.s64">
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="pense" lemma="penser" pos="VERB" wn30_key="intend%2:31:00::;cogitate%2:31:00::;cerebrate%2:31:00::;think%2:31:08::;mean%2:31:00::;think%2:31:06::;think%2:36:00::;think%2:31:00::" id="doc1.s64.t1"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s64.t2"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="c'" lemma="ce" pos="PRON"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s64.t3"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s64.t4"/>
+            <word surface_form="si" lemma="si" pos="SCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="demandes" lemma="demander" pos="VERB" wn30_key="demand%2:32:06::;question%2:32:00::;ask%2:32:04::;query%2:32:00::;enquire%2:32:00::;inquire%2:32:01::" id="doc1.s64.t5"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="veux" lemma="vouloir" pos="VERB" wn30_key="like%2:37:05::" id="doc1.s64.t6"/>
+            <word surface_form="devenir" lemma="devenir" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s64.t7"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="ami" lemma="ami" pos="NOUN" wn30_key="friend%1:18:02::;acquaintance%1:18:00::;friend%1:18:00::" id="doc1.s64.t8"/>
+         </sentence>
+         <sentence id="doc1.s65">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="sven" lemma="sven" pos="PROPN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="qui" lemma="qui" pos="PRON" wn30_key="unknown%3:00:00::" id="doc1.s65.t1"/>
+            <word surface_form="sais" lemma="savoir" pos="VERB" wn30_key="excogitate%2:36:00::;discover%2:36:00::;devise%2:36:00::;find%2:31:09::;contrive%2:36:00::;forge%2:36:08::;find%2:36:00::;discover%2:31:00::;see%2:31:01::;invent%2:36:00::;realise%2:31:00::;understand%2:31:01::;realize%2:31:00::;formulate%2:36:00::" id="doc1.s65.t2"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="cela" lemma="celer" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s66">
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="sais" lemma="savoir" pos="VERB" wn30_key="know%2:31:01::;cognise%2:31:00::;cognize%2:31:00::" id="doc1.s66.t1"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="la" lemma="le" pos="DET"/>
+            <word surface_form="maman" lemma="maman" pos="NOUN" wn30_key="mother%1:18:00::;mummy%1:18:00::;mum%1:18:00::;momma%1:18:00::;mama%1:18:00::;mommy%1:18:00::;mammy%1:18:00::;mom%1:18:00::;ma%1:18:00::;mamma%1:18:00::;female_parent%1:18:00::" id="doc1.s66.t2"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s66.t3"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s66.t4"/>
+            <word surface_form="malade" lemma="malade" pos="ADJ" wn30_key="sick%3:00:01::;ill%3:00:01::" id="doc1.s66.t5"/>
+         </sentence>
+         <sentence id="doc1.s67">
+            <word surface_form="elle" lemma="lui" pos="PRON"/>
+            <word surface_form="est" lemma="être" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s67.t1"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="l'" lemma="le" pos="DET"/>
+            <word surface_form="hôpital" lemma="hôpital" pos="NOUN" wn30_key="hospital%1:06:00::;clinic%1:06:00::;infirmary%1:06:00::;clinic%1:14:00::;hospital%1:14:00::" id="doc1.s67.t2"/>
+            <word surface_form="marthe" lemma="marthe" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s68">
+            <word surface_form="bonjour" lemma="bonjour" pos="NOUN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s68.t1"/>
+            <word surface_form="jason" lemma="jason" pos="PROPN"/>
+            <word surface_form="devoirs" lemma="devoir" pos="NOUN" wn30_key="homework%1:04:00::;prep%1:04:00::;preparation%1:04:01::" id="doc1.s68.t2"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="blank_out%2:31:00::;forget%2:31:00::;leave%2:31:02::;block%2:31:00::;forget%2:31:02::;draw_a_blank%2:31:00::" id="doc1.s68.t3"/>
+            <word surface_form="oubliés" lemma="oublier" pos="VERB" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s68.t4"/>
+         </sentence>
+         <sentence id="doc1.s69">
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s69.t1"/>
+            <word surface_form="an" lemma="an" pos="X"/>
+         </sentence>
+         <sentence id="doc1.s70">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="annick" lemma="annick" pos="PROPN"/>
+            <word surface_form="est" lemma="être" pos="AUX"/>
+            <word surface_form="ce" lemma="ce" pos="PRON"/>
+            <word surface_form="que" lemma="que" pos="PRON"/>
+            <word surface_form="tes" lemma="ton" pos="DET"/>
+            <word surface_form="parents" lemma="parent" pos="NOUN" wn30_key="parent%1:18:00::" id="doc1.s70.t1"/>
+            <word surface_form="sont" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s70.t2"/>
+            <word surface_form="déjà" lemma="déjà" pos="ADV" wn30_key="over_again%4:02:00::;once_more%4:02:00::;again%4:02:00::;once_again%4:02:00::" id="doc1.s70.t3"/>
+            <word surface_form="venus" lemma="venir" pos="VERB" wn30_key="come_up%2:38:02::;come%2:38:00::;come%2:38:04::;get%2:38:00::;arrive%2:38:00::" id="doc1.s70.t4"/>
+         </sentence>
+         <sentence id="doc1.s71">
+            <word surface_form="bien" lemma="bien" pos="ADV"/>
+            <word surface_form="qu'" lemma="que" pos="SCONJ"/>
+            <word surface_form="ils" lemma="il" pos="PRON"/>
+            <word surface_form="viennent" lemma="venir" pos="VERB" wn30_key="come_up%2:38:02::;come%2:38:00::;come%2:38:04::;get%2:38:00::;arrive%2:38:00::" id="doc1.s71.t1"/>
+            <word surface_form="encore" lemma="encore" pos="ADV" wn30_key="over_again%4:02:00::;once_more%4:02:00::;again%4:02:00::;once_again%4:02:00::" id="doc1.s71.t2"/>
+            <word surface_form="en" lemma="en" pos="ADP"/>
+            <word surface_form="visite" lemma="visite" pos="NOUN" wn30_key="visit%1:04:02::" id="doc1.s71.t3"/>
+            <word surface_form="avant" lemma="avant" pos="ADP" wn30_key="before%4:02:03::;earlier%4:02:00::" id="doc1.s71.t4"/>
+            <word surface_form="qu'" lemma="que" pos="SCONJ"/>
+            <word surface_form="ils" lemma="il" pos="PRON"/>
+            <word surface_form="partent" lemma="partir" pos="VERB" wn30_key="move%2:38:03::;locomote%2:38:00::;travel%2:38:00::;go%2:38:00::" id="doc1.s71.t5"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="la" lemma="le" pos="DET"/>
+            <word surface_form="mer" lemma="mer" pos="NOUN" wn30_key="ocean%1:17:00::;sea%1:17:00::" id="doc1.s71.t6"/>
+         </sentence>
+         <sentence id="doc1.s72">
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+         </sentence>
+         <sentence id="doc1.s73">
+            <word surface_form="c'" lemma="ce" pos="PRON"/>
+            <word surface_form="est" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s73.t1"/>
+            <word surface_form="aussi" lemma="aussi" pos="ADV" wn30_key="besides%4:02:03::;likewise%4:02:01::;as_well%4:02:01::;also%4:02:00::;too%4:02:01::" id="doc1.s73.t2"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="vieux" lemma="vieux" pos="ADJ" wn30_key="aged%5:00:01:old:02;older%5:00:00:old:02;senior%5:00:00:old:02;elderly%5:00:00:old:02" id="doc1.s73.t3"/>
+            <word surface_form="monsieur" lemma="Monsieur" pos="NOUN" wn30_key="silhouette%1:06:00::;sir%1:18:00::;man%1:18:00::;adult_male%1:18:00::" id="doc1.s73.t4"/>
+            <word surface_form="elle" lemma="lui" pos="PRON"/>
+            <word surface_form="va" lemma="aller" pos="VERB" wn30_key="move%2:38:03::;locomote%2:38:00::;travel%2:38:00::;go%2:38:00::" id="doc1.s73.t5"/>
+            <word surface_form="dans" lemma="dans" pos="ADP"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="maison" lemma="maison" pos="NOUN" wn30_key="nursing_home%1:06:00::;home%1:06:01::;rest_home%1:06:00::" id="doc1.s73.t6"/>
+            <word surface_form="de" lemma="de" pos="ADP" wn30_key="nursing_home%1:06:00::;home%1:06:01::;rest_home%1:06:00::" id="doc1.s73.t7"/>
+            <word surface_form="repos" lemma="repos" pos="NOUN" wn30_key="nursing_home%1:06:00::;home%1:06:01::;rest_home%1:06:00::" id="doc1.s73.t8"/>
+            <word surface_form="quand" lemma="quand" pos="SCONJ"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="peux" lemma="pouvoir" pos="VERB"/>
+            <word surface_form="plus" lemma="plus" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s73.t9"/>
+            <word surface_form="t'" lemma="te" pos="PRON"/>
+            <word surface_form="occuper" lemma="occuper" pos="VERB" wn30_key="take_heed%2:39:00::;pay_heed%2:39:00::;hear%2:39:05::;give_ear%2:39:00::;hang%2:39:00::;listen%2:39:01::;advert%2:39:00::;attend%2:39:00::" id="doc1.s73.t10"/>
+            <word surface_form="du" lemma="de" pos="ADP"/>
+            <word surface_form="vieux" lemma="vieux" pos="ADJ" wn30_key="aged%5:00:01:old:02;older%5:00:00:old:02;senior%5:00:00:old:02;elderly%5:00:00:old:02" id="doc1.s73.t11"/>
+            <word surface_form="monsieur" lemma="Monsieur" pos="NOUN" wn30_key="silhouette%1:06:00::;sir%1:18:00::;man%1:18:00::;adult_male%1:18:00::" id="doc1.s73.t12"/>
+            <word surface_form="ou" lemma="ou" pos="CCONJ"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s73.t13"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="es" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s73.t14"/>
+            <word surface_form="très" lemma="très" pos="ADV" wn30_key="very%4:02:00::;real%4:02:01::;rattling%4:02:00::;really%4:02:00::" id="doc1.s73.t15"/>
+            <word surface_form="triste" lemma="triste" pos="ADJ" wn30_key="down_in_the_mouth%5:00:00:dejected:00;gloomy%5:00:00:dejected:00;grim%5:00:00:dejected:00;down%5:00:00:dejected:00;unhappy%3:00:00::;depressed%5:00:00:dejected:00;downhearted%5:00:00:dejected:00;low%5:00:00:dejected:00;downcast%5:00:00:dejected:00;distressed%3:00:04::;blue%5:00:00:dejected:00;sad%3:00:00::;unhappy%3:00:04::;low-spirited%5:00:00:dejected:00;dispirited%5:00:00:dejected:00;dysphoric%3:00:00::" id="doc1.s73.t16"/>
+            <word surface_form="pour" lemma="pour" pos="ADP"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="vieux" lemma="vieux" pos="ADJ" wn30_key="aged%5:00:01:old:02;older%5:00:00:old:02;senior%5:00:00:old:02;elderly%5:00:00:old:02" id="doc1.s73.t17"/>
+            <word surface_form="monsieur" lemma="Monsieur" pos="NOUN" wn30_key="silhouette%1:06:00::;sir%1:18:00::;man%1:18:00::;adult_male%1:18:00::" id="doc1.s73.t18"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="te" lemma="te" pos="PRON"/>
+            <word surface_form="réconforterai" lemma="réconforter" pos="VERB" wn30_key="cheer_up%2:32:01::;encourage%2:37:00::;jolly_up%2:32:00::;jolly_along%2:32:00::;cheer%2:32:03::" id="doc1.s73.t19"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s73.t20"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="tim" lemma="tim" pos="PROPN"/>
+            <word surface_form="de" lemma="de" pos="ADP"/>
+            <word surface_form="bock" lemma="bock" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s74">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s74.t1"/>
+            <word surface_form="sally" lemma="sally" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="suis" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s74.t2"/>
+            <word surface_form="en" lemma="en" pos="ADP"/>
+            <word surface_form="weekend" lemma="weekend" pos="NOUN"/>
+            <word surface_form="du" lemma="de" pos="ADP"/>
+            <word surface_form="17" lemma="17" pos="PRON" wn30_key="xvii%1:23:00::;xvii%5:00:00:cardinal:00;number%1:10:01::;17%5:00:00:cardinal:00;17%1:23:00::;numeral%1:10:00::;seventeen%1:23:00::;number%1:23:00::;seventeen%5:00:00:cardinal:00" id="doc1.s74.t3"/>
+            <word surface_form="au" lemma="au" pos="ADP"/>
+            <word surface_form="19" lemma="19" pos="NUM" wn30_key="nineteen%1:23:00::;xix%1:23:00::;19%1:23:00::;number%1:10:01::;19%5:00:00:cardinal:00;numeral%1:10:00::;nineteen%5:00:00:cardinal:00;xix%5:00:00:cardinal:00;number%1:23:00::" id="doc1.s74.t4"/>
+            <word surface_form="mai" lemma="mai" pos="NOUN" wn30_key="may%1:28:00::" id="doc1.s74.t5"/>
+            <word surface_form="chez" lemma="chez" pos="ADP"/>
+            <word surface_form="papa" lemma="papa" pos="NOUN" wn30_key="dada%1:18:00::;dad%1:18:00::;begetter%1:18:00::;pa%1:18:00::;papa%1:18:00::;daddy%1:18:00::;pappa%1:18:00::;pop%1:18:00::;father%1:18:00::;male_parent%1:18:00::" id="doc1.s74.t6"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="le" lemma="le" pos="DET"/>
+            <word surface_form="prochain" lemma="prochain" pos="ADJ" wn30_key="future%3:00:00::" id="doc1.s74.t7"/>
+            <word surface_form="weekend" lemma="weekend" pos="NOUN"/>
+            <word surface_form="chez" lemma="chez" pos="ADP"/>
+            <word surface_form="maman" lemma="maman" pos="NOUN" wn30_key="mother%1:18:00::;mummy%1:18:00::;mum%1:18:00::;momma%1:18:00::;mama%1:18:00::;mommy%1:18:00::;mammy%1:18:00::;mom%1:18:00::;ma%1:18:00::;mamma%1:18:00::;female_parent%1:18:00::" id="doc1.s74.t8"/>
+         </sentence>
+         <sentence id="doc1.s75">
+            <word surface_form="après" lemma="après" pos="ADP"/>
+            <word surface_form="les" lemma="le" pos="DET"/>
+            <word surface_form="vacances" lemma="vacance" pos="NOUN" wn30_key="vacation%1:28:00::;holiday%1:28:00::" id="doc1.s75.t1"/>
+            <word surface_form="d'" lemma="de" pos="ADP"/>
+            <word surface_form="été" lemma="été" pos="NOUN" wn30_key="summer%1:28:00::;summertime%1:28:00::" id="doc1.s75.t2"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="ne" lemma="ne" pos="ADV"/>
+            <word surface_form="donne" lemma="donne" pos="VERB" wn30_key="reach%2:40:00::;turn_over%2:40:00::;give%2:40:00::;offer%2:40:00::;proffer%2:40:00::;pass%2:40:00::;hand%2:40:00::;pass_on%2:40:01::;give%2:40:06::" id="doc1.s75.t3"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s75.t4"/>
+            <word surface_form="non" lemma="non" pos="ADV"/>
+            <word surface_form="plus" lemma="plus" pos="ADV" wn30_key="neither%5:00:00:incomplete:00" id="doc1.s75.t5"/>
+            <word surface_form="mon" lemma="mon" pos="DET"/>
+            <word surface_form="weekend" lemma="weekend" pos="NOUN" wn30_key="weekend%1:28:00::" id="doc1.s75.t6"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="toi" lemma="toi" pos="PRON"/>
+         </sentence>
+         <sentence id="doc1.s76">
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="bientôt" lemma="bientôt" pos="ADV"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="l'" lemma="le" pos="DET"/>
+            <word surface_form="école" lemma="école" pos="NOUN" wn30_key="schoolhouse%1:06:00::;school%1:06:00::;school%1:14:00::" id="doc1.s76.t1"/>
+         </sentence>
+         <sentence id="doc1.s77">
+            <word surface_form="bonjour" lemma="bonjour" pos="NOUN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s77.t1"/>
+            <word surface_form="soefrijan" lemma="soefrijan" pos="PROPN"/>
+            <word surface_form="pas" lemma="pas" pos="ADV" wn30_key="step%1:10:02::;footprint%1:10:00::;footmark%1:10:00::" id="doc1.s77.t2"/>
+            <word surface_form="mal" lemma="mal" pos="ADV" wn30_key="bad%3:00:00::" id="doc1.s77.t3"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="salynka" lemma="salynka" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s78">
+            <word surface_form="salut" lemma="salut" pos="NOUN"/>
+            <word surface_form="melissa" lemma="melissa" pos="PROPN"/>
+            <word surface_form="comment" lemma="comment" pos="ADV"/>
+            <word surface_form="vas" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s78.t1"/>
+            <word surface_form="tu" lemma="tu" pos="PRON"/>
+            <word surface_form="tout" lemma="tout" pos="PRON" wn30_key="completely%4:02:04::;all%5:00:00:complete:00;totally%4:02:00::;right%4:02:07::;entirely%4:02:00::;all%4:02:00::;altogether%4:02:04::;wholly%4:02:00::;whole%4:02:00::" id="doc1.s78.t2"/>
+            <word surface_form="va" lemma="aller" pos="VERB" wn30_key="be%2:42:05::" id="doc1.s78.t3"/>
+            <word surface_form="bien" lemma="bien" pos="ADV" wn30_key="well%4:02:00::;ok%1:10:00::;correct%3:00:04::;ok%5:00:00:satisfactory:00;right%3:00:04::;good%4:02:00::;cool%5:00:00:satisfactory:00;o.k.%1:10:00::;fine%5:00:00:satisfactory:00;okeh%1:10:00::;hunky-dory%5:00:00:satisfactory:00;o.k.%5:00:00:satisfactory:00;okay%5:00:00:satisfactory:00;okay%1:10:00::;all_right%5:00:00:satisfactory:00;okey%1:10:00::" id="doc1.s78.t4"/>
+            <word surface_form="j'" lemma="je" pos="PRON"/>
+            <word surface_form="ai" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s78.t5"/>
+            <word surface_form="reçu" lemma="recevoir" pos="VERB" wn30_key="take%2:35:00::;take%2:40:05::;receive%2:40:00::;accept%2:40:00::;get_hold_of%2:35:00::;have%2:40:03::;have%2:40:05::" id="doc1.s78.t6"/>
+            <word surface_form="une" lemma="un" pos="DET"/>
+            <word surface_form="nouvelle" lemma="nouveau" pos="ADJ" wn30_key="new%3:00:09::;new%3:00:00::" id="doc1.s78.t7"/>
+            <word surface_form="garde-robe" lemma="garde-robe" pos="NOUN" wn30_key="wardrobe%1:06:00::;closet%1:06:02::;press%1:06:02::" id="doc1.s78.t8"/>
+            <word surface_form="et" lemma="et" pos="CCONJ"/>
+            <word surface_form="un" lemma="un" pos="DET" wn30_key="1%5:00:00:cardinal:00;one%1:23:00::;i%5:00:00:cardinal:00;unity%1:23:00::;ane%5:00:00:cardinal:00;single%1:23:00::;number%1:10:01::;odd%3:00:00::;uneven%3:00:04::;one%5:00:00:cardinal:00;numeral%1:10:00::;1%1:23:00::;number%1:23:00::;ace%1:23:00::;i%1:23:00::" id="doc1.s78.t9"/>
+            <word surface_form="bureau" lemma="bureau" pos="NOUN" wn30_key="business_office%1:06:00::;secretariat%1:14:00::;office%1:06:00::;secretariate%1:14:00::" id="doc1.s78.t10"/>
+            <word surface_form="pour" lemma="pour" pos="ADP"/>
+            <word surface_form="bricoler" lemma="bricoler" pos="VERB" wn30_key="make%2:36:13::;build%2:36:00::;construct%2:36:00::" id="doc1.s78.t11"/>
+            <word surface_form="salutations" lemma="salutation" pos="NOUN"/>
+            <word surface_form="annick" lemma="annick" pos="PROPN"/>
+         </sentence>
+         <sentence id="doc1.s79">
+            <word surface_form="bonjour" lemma="bonjour" pos="NOUN" wn30_key="howdy%1:10:00::;hi%1:10:00::;hello%1:10:00::;hullo%1:10:00::;how-do-you-do%1:10:00::" id="doc1.s79.t1"/>
+            <word surface_form="institutrice" lemma="instituteur" pos="NOUN" wn30_key="instructor%1:18:00::;prof%1:18:00::;teacher%1:18:00::;schoolteacher%1:18:00::;school_teacher%1:18:00::;professor%1:18:00::" id="doc1.s79.t2"/>
+            <word surface_form="martine" lemma="martiner" pos="PROPN"/>
+            <word surface_form="je" lemma="je" pos="PRON"/>
+            <word surface_form="suis" lemma="être" pos="AUX" wn30_key="be%2:42:05::" id="doc1.s79.t3"/>
+            <word surface_form="triste" lemma="triste" pos="ADJ" wn30_key="down_in_the_mouth%5:00:00:dejected:00;gloomy%5:00:00:dejected:00;grim%5:00:00:dejected:00;down%5:00:00:dejected:00;unhappy%3:00:00::;depressed%5:00:00:dejected:00;downhearted%5:00:00:dejected:00;low%5:00:00:dejected:00;downcast%5:00:00:dejected:00;distressed%3:00:04::;blue%5:00:00:dejected:00;sad%3:00:00::;unhappy%3:00:04::;low-spirited%5:00:00:dejected:00;dispirited%5:00:00:dejected:00;dysphoric%3:00:00::" id="doc1.s79.t4"/>
+            <word surface_form="parce" lemma="parce" pos="SCONJ"/>
+            <word surface_form="que" lemma="que" pos="SCONJ"/>
+            <word surface_form="cinq" lemma="cinq" pos="NUM" wn30_key="v%5:00:00:cardinal:00;number%1:10:01::;5%5:00:00:cardinal:00;numeral%1:10:00::;number%1:23:00::;five%5:00:00:cardinal:00" id="doc1.s79.t5"/>
+            <word surface_form="pokemon" lemma="pokemon" pos="NOUN"/>
+            <word surface_form="à" lemma="à" pos="ADP"/>
+            <word surface_form="moi" lemma="moi" pos="PRON"/>
+            <word surface_form="ont" lemma="avoir" pos="AUX" wn30_key="have_got%2:40:00::;have%2:40:04::;hold%2:40:00::;possess%2:40:00::;own%2:40:00::;have%2:40:00::" id="doc1.s79.t6"/>
+            <word surface_form="disparu" lemma="disparaître" pos="VERB" wn30_key="lose%2:40:01::" id="doc1.s79.t7"/>
+         </sentence>
+      </paragraph>
+   </document>
+</corpus>
